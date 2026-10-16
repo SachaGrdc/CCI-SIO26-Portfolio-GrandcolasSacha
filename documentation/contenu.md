@@ -33,15 +33,37 @@ Sacha GRANDCOLAS, mentions légales, lien Github et Linkeldin
 
 ### 2.1. Présentation
 
-Je m’appelle Sacha Grandcolas et je suis étudiant en BTS SIO, option SISR (Solutions d’Infrastructure, Systèmes et Réseaux) au CCI Campus.
+Bienvenue  
 
-J’ai toujours été attiré par l'informatique. Après mon bac professionnel CIEL, j’ai choisi ce BTS pour continuer dans le domaine du réseau
+SACHA GRANDCOLAS 
 
-Sur ce site, vous pouvez découvrir mon parcours, mes projets et ma veille technologique. Après le BTS, je souhaite poursuivre mes études toujours dans le domaine informatique.
+ETUDIANT EN BTS SIO - OPTION SISR
 
-### 2.2. Accès aux autres rubriques
+Je suis actuellement étudiant au CCI Campus de Strasbourg
 
-### 2.3. Illustrations de la page
+Ce portfolio présente mon parcours, mes futurs projets, mes compétences ainsi que ma veille technologique.
+
+
+
+Bouton  : Découvrir mon parcours
+
+Bouton : Voir mes projets
+
+Cartes : Systèmes : Administration Windows / Linux
+
+Cartes : Réseaux : Configuration et dépannage 
+
+Cartes Développement : HTML / CSS
+
+### 2.2. Illustrations de la page
+
+Logo de HTML - CSS : <img src="\var\www\html\portfolio\documentation\medias\HTML-CSS-logo.png" alt="HTML-CSS-logo" style="zoom:25%;" />
+
+Logo de Lingenheld : <img src="\var\www\html\portfolio\documentation\medias\Lingenheld-logo.png" alt="Lingenheld-logo" style="zoom: 50%;" />
+
+Logo de Ubuntu : <img src="\var\www\html\portfolio\documentation\medias\ubuntu-logo.png" alt="ubuntu-logo" style="zoom:25%;" />
+
+Logo de Wireshark : <img src="\var\www\html\portfolio\documentation\medias\wireshark-logo.png" alt="wireshark-logo" style="zoom:25%;" />
 
 <div style="page-break-after:always"></div>
 
