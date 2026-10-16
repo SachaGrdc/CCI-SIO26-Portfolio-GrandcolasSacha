@@ -33,6 +33,12 @@ Sacha GRANDCOLAS, mentions légales, lien Github et Linkeldin
 
 ### 2.1. Présentation
 
+Je m’appelle Sacha Grandcolas et je suis étudiant en BTS SIO, option SISR (Solutions d’Infrastructure, Systèmes et Réseaux) au CCI Campus.
+
+J’ai toujours été attiré par l'informatique. Après mon bac professionnel CIEL, j’ai choisi ce BTS pour continuer dans le domaine du réseau
+
+Sur ce site, vous pouvez découvrir mon parcours, mes projets et ma veille technologique. Après le BTS, je souhaite poursuivre mes études toujours dans le domaine informatique.
+
 ### 2.2. Accès aux autres rubriques
 
 ### 2.3. Illustrations de la page
