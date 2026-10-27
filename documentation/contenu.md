@@ -41,7 +41,7 @@ ETUDIANT EN BTS SIO - OPTION SISR
 
 Je suis actuellement étudiant au CCI Campus de Strasbourg
 
-Ce portfolio présente mon parcours, mes futurs projets, mes compétences ainsi que ma veille technologique.
+Actuellement étudiant au CCI Campus de Strasbourg, je suis en alternance chez Lingenheld Groupe au service informatique 
 
 
 
@@ -71,11 +71,17 @@ Logo de Wireshark : <img src="\var\www\html\portfolio\documentation\medias\wires
 
 ### 3.1. Introduction
 
+Mon parcours
+
+Vous pouvez ici retrouver l'ensemble de mon parcours scolaire et professionnel
+
 ### 3.2. Formations
 
-Baccalauréat Professionnel CIEL (Cybersécurité, Informatique et réseaux, Électronique) 
+BTS SIO - option SISR	CCI Campus - Strasbourg
 
-BTS SIO (Services Informatiques aux Organisations) option SISR (Solutions d'Infrastructure, Systèmes et Réseaux)
+Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg
+
+Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg
 
 ### 3.3. Expériences professionnelles
 
@@ -86,6 +92,10 @@ Stage chez FM Logistic au service informatique
 Alternance chez Lingenheld au service informatique
 
 ### 3.4. Illustrations de la page
+
+Logo du lycée Mangin : <img src="\var\www\html\portfolio\documentation\medias\mangin.png" alt="wireshark-logo" style="zoom:25%;" />
+
+Logo du CCI Campus : <img src="\var\www\html\portfolio\documentation\medias\cci.png" alt="wireshark-logo" style="zoom:25%;" />
 
 <div style="page-break-after:always"></div>
 
