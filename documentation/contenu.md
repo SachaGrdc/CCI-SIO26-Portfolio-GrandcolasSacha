@@ -8,7 +8,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 ---
 # Contenu de la page web
 **Date de création** : 16/10/2026 - S.GRANDCOLAS
-**Date de modification** : 11/09/2025 - A. TOTO
+**Date de modification** : 30/10/2026 - S.GRANDCOLAS
 **Sommaire :**
 
 > [TOC]
@@ -41,15 +41,15 @@ ETUDIANT EN BTS SIO - OPTION SISR
 
 Je suis actuellement étudiant au CCI Campus de Strasbourg
 
-Actuellement étudiant au CCI Campus de Strasbourg, je suis en alternance chez Lingenheld Groupe au service informatique 
+Actuellement étudiant au CCI Campus de Strasbourg, je suis en alternance chez Lingenheld Groupe au service informatique.
 
 
 
-Carte : Systèmes : Administration Windows / Linux
+Systèmes : Administration Windows / Linux
 
-Carte : Réseaux : Configuration et dépannage 
+Réseaux : Configuration et dépannage 
 
-Carte :  Développement : HTML / CSS
+Développement : HTML / CSS
 
 ### 2.2. Illustrations de la page
 
@@ -65,13 +65,13 @@ Logo de Wireshark : <img src="\var\www\html\portfolio\documentation\medias\wires
 
 ## 3. Page Parcours
 
-### 3.1. Introduction
-
 Mon parcours
 
-Vous pouvez ici retrouver l'ensemble de mon parcours scolaire et professionnel
+Vous pouvez ici retrouver l'ensemble de mon parcours scolaire et professionnel.
 
-### 3.2. Formations
+
+
+Mon parcours scolaire :
 
 BTS SIO - option SISR	CCI Campus - Strasbourg
 
@@ -79,7 +79,9 @@ Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg
 
 Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg
 
-### 3.3. Expériences professionnelles
+
+
+Mes expériences professionnelles : 
 
 Stage chez Ferco au service informatique
 
@@ -87,7 +89,7 @@ Stage chez FM Logistic au service informatique
 
 Alternance chez Lingenheld au service informatique
 
-### 3.4. Illustrations de la page
+### 3.1. Illustrations de la page
 
 Logo du lycée Mangin : <img src="\var\www\html\portfolio\documentation\medias\mangin.png" alt="wireshark-logo" style="zoom:25%;" />
 
@@ -99,11 +101,13 @@ Logo du CCI Campus : <img src="\var\www\html\portfolio\documentation\medias\cci.
 
 ### 4.1. Introduction
 
-Mes projets :
+Mes projets
 
-Vous pouvez ici retrouver l'ensemble de mes projets que j'ai eu l'occasion de faire lors de mon Bac professionnel CIEL et BTS SIO
+Vous pouvez ici retrouver l'ensemble de mes projets que j'ai eu l'occasion de faire lors de mon Bac professionnel CIEL et BTS SIO.
 
-### 4.2. Projet carte électronique
+
+
+La carte électronique
 
 Lors de ce projet du lycée j'ai dû fabriquer une carte électronique de la conception du PCB à la fabrication de la carte avec un CNC.
 
@@ -113,27 +117,33 @@ Ensuite, j'ai utilisé KiCad pour créer le schéma, le PCB ainsi que le routage
 
 Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensuite tracé gravé les pistes sur des plaques en cuivre.
 
-### 4.3. Projet 3
+### 4.2. Projet 3
 
-### 4.4. Projet 4
+### 4.3. Projet 4
 
-### 4.5. Illustrations de la page
-
-<div style="page-break-after:always"></div>
-
-## 5. Page Projet AP3
+### 4.4. Illustrations de la page
 
 <div style="page-break-after:always"></div>
 
-## 6. Page Projet AP4
+## 5. Page Veille technologique
+
+Ma veille technologique
+
+Vous pouvez ici retrouver l'ensemble des articles de presse concernant l'informatique que j'ai eu l'occasion de lire.
+
+
+
+Les failles PHP
+
+Date de publication : 21/10/2026
+
+L'article : https://www.lemonde.fr/pixels/article/2026/10/21/failles-php-pourquoi-de-nombreux-sites-ont-soudainement-ete-mis-en-maintenance_6798279_4408996.html
+
+Résumé : Deux grosses failles de sécurité ont été trouvées sur PHP, un très utilisé sur les sites internet. Face à cela beaucoup de sites dans le monde se sont mis en maintenance par précaution pour éviter de se faire pirater en attendant les mises à jour, finalement la mise à jour corrigeant ces failles a été publié peu de temps après.
 
 <div style="page-break-after:always"></div>
 
-## 7. Page Veille technologique
-
-<div style="page-break-after:always"></div>
-
-## 8. Page Mentions légales
+## 6. Page Mentions légales
 
 
 
