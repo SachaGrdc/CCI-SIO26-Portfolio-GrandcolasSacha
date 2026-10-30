@@ -19,7 +19,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 ### 1.1. Menu de navigation
 
-Accueil, Parcours, Projets, Veille, Mentions légales
+Accueil, Parcours, Projets, Veille technologique
 
 ### 1.2. Pied de page
 
@@ -45,15 +45,11 @@ Actuellement étudiant au CCI Campus de Strasbourg, je suis en alternance chez L
 
 
 
-Bouton  : Découvrir mon parcours
+Carte : Systèmes : Administration Windows / Linux
 
-Bouton : Voir mes projets
+Carte : Réseaux : Configuration et dépannage 
 
-Cartes : Systèmes : Administration Windows / Linux
-
-Cartes : Réseaux : Configuration et dépannage 
-
-Cartes Développement : HTML / CSS
+Carte :  Développement : HTML / CSS
 
 ### 2.2. Illustrations de la page
 
@@ -101,13 +97,27 @@ Logo du CCI Campus : <img src="\var\www\html\portfolio\documentation\medias\cci.
 
 ## 4. Page Projets
 
-### 4.2. Introduction
+### 4.1. Introduction
 
-### 4.3. Projet 1
+Mes projets :
 
-### 4.4. Projet 2
+Vous pouvez ici retrouver l'ensemble de mes projets que j'ai eu l'occasion de faire lors de mon Bac professionnel CIEL et BTS SIO
 
-### 4.6. Illustrations de la page
+### 4.2. Projet carte électronique
+
+Lors de ce projet du lycée j'ai dû fabriquer une carte électronique de la conception du PCB à la fabrication de la carte avec un CNC.
+
+Tout d'abord j'ai choisi un projet parmi une liste proposé par mes professeurs, après réflexion mon choix s'est porté sur un interrupteur crépusculaire, c'est-à-dire une lumière que s'allume automatiquement dans l'obscurité et inversement qui s'éteint lorsque la luminosité augmente à nouveau.
+
+Ensuite, j'ai utilisé KiCad pour créer le schéma, le PCB ainsi que le routage des pistes
+
+Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensuite tracé gravé les pistes sur des plaques en cuivre.
+
+### 4.3. Projet 3
+
+### 4.4. Projet 4
+
+### 4.5. Illustrations de la page
 
 <div style="page-break-after:always"></div>
 
