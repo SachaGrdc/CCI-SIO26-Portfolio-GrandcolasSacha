@@ -141,6 +141,18 @@ Vous pouvez ici retrouver l'ensemble des articles de presse concernant l'informa
 
 
 
+
+
+Changement de l'inscription Windows dans Intune
+
+Date de publication : 02/11/2026
+
+L'article : https://www.it-connect.fr/enterpriseenrollment-ce-qui-change-pour-linscription-des-postes-windows-dans-intune/
+
+Résumé : À partir du 15 janvier 2027 Windows ne trouvera plus automatiquement Intune lors de l'inscription d'un ordinateur en mode MDM-only. Les utilisateurs vont devoir saisir manuellement l'adresse du serveur Intune, Les ordinateurs déjà inscrits ne sont pas concernés
+
+
+
 Les failles PHP
 
 Date de publication : 21/10/2026
