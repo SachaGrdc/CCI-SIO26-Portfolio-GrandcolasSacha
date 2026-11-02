@@ -23,7 +23,7 @@ Accueil, Parcours, Projets, Veille technologique
 
 ### 1.2. Pied de page
 
-Sacha GRANDCOLAS, mentions légales, lien Github et Linkeldin
+Sacha GRANDCOLAS, mentions légales, Github, Linkeldin
 
 ### 1.3. Illustrations
 
@@ -73,27 +73,31 @@ Vous pouvez ici retrouver l'ensemble de mon parcours scolaire et professionnel.
 
 Mon parcours scolaire :
 
-BTS SIO - option SISR	CCI Campus - Strasbourg
+BTS SIO - option SISR	CCI Campus - Strasbourg	2026 - Aujourd'hui
 
-Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg
+Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	2023 - 2026
 
-Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg
+Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	2019 - 2023
 
 
 
 Mes expériences professionnelles : 
 
-Stage chez Ferco au service informatique
+Alternance chez Lingenheld au service informatique	2026 - Aujourd'hui
 
-Stage chez FM Logistic au service informatique
+Stage chez Ferco au service informatique	2023 - 2024 - 2025
 
-Alternance chez Lingenheld au service informatique
+Stage chez FM Logistic au service informatique	2022
+
+
 
 ### 3.1. Illustrations de la page
 
-Logo du lycée Mangin : <img src="\var\www\html\portfolio\documentation\medias\mangin.png" alt="wireshark-logo" style="zoom:25%;" />
+Logo du lycée Mangin : <img src="\var\www\html\portfolio\documentation\medias\mangin.png" alt="logo lycée Mangin" style="zoom:25%;" />
 
-Logo du CCI Campus : <img src="\var\www\html\portfolio\documentation\medias\cci.png" alt="wireshark-logo" style="zoom:25%;" />
+​	Logo du CCI Campus : <img src="\var\www\html\portfolio\documentation\medias\cci.png" alt="Logo du CCI Campus" style="zoom:25%;" />
+
+Logo du collège Erckmann-Chatrian : <img src="\var\www\html\portfolio\documentation\medias\erckmann.png" alt="Logo du collège Erckman n Chatrian" style="zoom:25%;" />
 
 <div style="page-break-after:always"></div>
 
@@ -125,11 +129,15 @@ Le portfolio
 
 
 
-### 4.2. Projet 3
+Le projet 3
 
-### 4.3. Projet 4
+
+
+Le projet 4
 
 ### 4.4. Illustrations de la page
+
+Une photo de ma carte électronique ainsi que le schéma correspondant : <img src="\var\www\html\portfolio\documentation\medias\schema_carte.png" alt="Schéma de la carte électronique" style="zoom:25%;" />
 
 <div style="page-break-after:always"></div>
 
