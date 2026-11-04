@@ -8,7 +8,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 ---
 # Contenu de la page web
 **Date de création** : 16/10/2026 - S.GRANDCOLAS
-**Date de modification** : 30/10/2026 - S.GRANDCOLAS
+**Date de modification** : 02/11/2026 - S.GRANDCOLAS
 **Sommaire :**
 
 > [TOC]
@@ -123,8 +123,6 @@ Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensui
 
 
 
-
-
 Le portfolio
 
 
@@ -149,15 +147,23 @@ Vous pouvez ici retrouver l'ensemble des articles de presse concernant l'informa
 
 
 
+L'IA d'Anthropic trouve des failles dans plusieurs systèmes 
+
+Date de publication : 02/11/2026
+
+Source : https://www.clubic.com/actualite-637039-l-ia-d-anthropic-a-perce-les-defenses-de-linux-chrome-et-safari-en-un-claquement-de-doigts.html
+
+Résumé : Anthropic affirme que son IA a découvert et exploité des failles critiques dans Chrome, Safari, Android, Windows et Linux, ces failles permettaient notamment de prendre le contrôle de machines ou d’accéder à des données. Toutes ces failles ont été corrigées avant leur publication.
+
 
 
 Changement de l'inscription Windows dans Intune
 
 Date de publication : 02/11/2026
 
-L'article : https://www.it-connect.fr/enterpriseenrollment-ce-qui-change-pour-linscription-des-postes-windows-dans-intune/
+Source : https://www.it-connect.fr/enterpriseenrollment-ce-qui-change-pour-linscription-des-postes-windows-dans-intune/
 
-Résumé : À partir du 15 janvier 2027 Windows ne trouvera plus automatiquement Intune lors de l'inscription d'un ordinateur en mode MDM-only. Les utilisateurs vont devoir saisir manuellement l'adresse du serveur Intune, Les ordinateurs déjà inscrits ne sont pas concernés
+Résumé : À partir du 15 janvier 2027 Windows ne trouvera plus automatiquement Intune lors de l'inscription d'un ordinateur en mode MDM-only. Les utilisateurs vont devoir saisir manuellement l'adresse du serveur Intune, Les ordinateurs déjà inscrits ne sont pas concernés.
 
 
 
@@ -165,7 +171,7 @@ Les failles PHP
 
 Date de publication : 21/10/2026
 
-L'article : https://www.lemonde.fr/pixels/article/2026/10/21/failles-php-pourquoi-de-nombreux-sites-ont-soudainement-ete-mis-en-maintenance_6798279_4408996.html
+Source : https://www.lemonde.fr/pixels/article/2026/10/21/failles-php-pourquoi-de-nombreux-sites-ont-soudainement-ete-mis-en-maintenance_6798279_4408996.html
 
 Résumé : Deux grosses failles de sécurité ont été trouvées sur PHP, un très utilisé sur les sites internet. Face à cela beaucoup de sites dans le monde se sont mis en maintenance par précaution pour éviter de se faire pirater en attendant les mises à jour, finalement la mise à jour corrigeant ces failles a été publié peu de temps après.
 
