@@ -8,7 +8,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 ---
 # Contenu de la page web
 **Date de création** : 16/10/2026 - S.GRANDCOLAS
-**Date de modification** : 02/11/2026 - S.GRANDCOLAS
+**Date de modification** : 04/11/2026 - S.GRANDCOLAS
 **Sommaire :**
 
 > [TOC]
@@ -25,13 +25,9 @@ Accueil, Parcours, Projets, Veille technologique
 
 Sacha GRANDCOLAS, mentions légales, Github, Linkeldin
 
-### 1.3. Illustrations
-
 <div style="page-break-after:always"></div>
 
 ## 2. Page Accueil
-
-### 2.1. Présentation
 
 Bienvenue  
 
@@ -45,21 +41,13 @@ Actuellement étudiant au CCI Campus de Strasbourg, je suis en alternance chez L
 
 
 
-Systèmes : Administration Windows / Linux
+Systèmes : Administration Windows / Linux	<img src="\var\www\html\portfolio\documentation\medias\ubuntu-logo.png" alt="ubuntu-logo" style="zoom:25%;" />
 
-Réseaux : Configuration et dépannage 
+Réseaux : Configuration et dépannage	<img src="\var\www\html\portfolio\documentation\medias\wireshark-logo.png" alt="wireshark-logo" style="zoom:25%;" />
 
-Développement : HTML / CSS
+Développement : HTML / CSS	<img src="\var\www\html\portfolio\documentation\medias\HTML-CSS-logo.png" alt="HTML-CSS-logo" style="zoom:25%;" />
 
-### 2.2. Illustrations de la page
 
-Logo de HTML - CSS : <img src="\var\www\html\portfolio\documentation\medias\HTML-CSS-logo.png" alt="HTML-CSS-logo" style="zoom:25%;" />
-
-Logo de Lingenheld : <img src="\var\www\html\portfolio\documentation\medias\Lingenheld-logo.png" alt="Lingenheld-logo" style="zoom: 50%;" />
-
-Logo de Ubuntu : <img src="\var\www\html\portfolio\documentation\medias\ubuntu-logo.png" alt="ubuntu-logo" style="zoom:25%;" />
-
-Logo de Wireshark : <img src="\var\www\html\portfolio\documentation\medias\wireshark-logo.png" alt="wireshark-logo" style="zoom:25%;" />
 
 <div style="page-break-after:always"></div>
 
@@ -73,11 +61,11 @@ Vous pouvez ici retrouver l'ensemble de mon parcours scolaire et professionnel.
 
 Mon parcours scolaire :
 
-BTS SIO - option SISR	CCI Campus - Strasbourg	2026 - Aujourd'hui
+BTS SIO - option SISR	CCI Campus - Strasbourg	2026 - Aujourd'hui	<img src="\var\www\html\portfolio\documentation\medias\cci.png" alt="Logo du CCI Campus" style="zoom:25%;" />
 
-Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	2023 - 2026
+Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	2023 - 2026	<img src="\var\www\html\portfolio\documentation\medias\mangin.png" alt="logo lycée Mangin" style="zoom:25%;" />
 
-Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	2019 - 2023
+Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	2019 - 2023	<img src="\var\www\html\portfolio\documentation\medias\erckmann.png" alt="Logo du collège Erckman n Chatrian" style="zoom:25%;" />
 
 
 
@@ -88,16 +76,6 @@ Alternance chez Lingenheld au service informatique	2026 - Aujourd'hui
 Stage chez Ferco au service informatique	2023 - 2024 - 2025
 
 Stage chez FM Logistic au service informatique	2022
-
-
-
-### 3.1. Illustrations de la page
-
-Logo du lycée Mangin : <img src="\var\www\html\portfolio\documentation\medias\mangin.png" alt="logo lycée Mangin" style="zoom:25%;" />
-
-​	Logo du CCI Campus : <img src="\var\www\html\portfolio\documentation\medias\cci.png" alt="Logo du CCI Campus" style="zoom:25%;" />
-
-Logo du collège Erckmann-Chatrian : <img src="\var\www\html\portfolio\documentation\medias\erckmann.png" alt="Logo du collège Erckman n Chatrian" style="zoom:25%;" />
 
 <div style="page-break-after:always"></div>
 
@@ -121,6 +99,8 @@ Ensuite, j'ai utilisé KiCad pour créer le schéma, le PCB ainsi que le routage
 
 Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensuite tracé gravé les pistes sur des plaques en cuivre.
 
+<img src="\var\www\html\portfolio\documentation\medias\schema_carte.png" alt="Schéma de la carte électronique" style="zoom:25%;" />
+
 
 
 Le portfolio
@@ -132,10 +112,6 @@ Le projet 3
 
 
 Le projet 4
-
-### 4.4. Illustrations de la page
-
-Une photo de ma carte électronique ainsi que le schéma correspondant : <img src="\var\www\html\portfolio\documentation\medias\schema_carte.png" alt="Schéma de la carte électronique" style="zoom:25%;" />
 
 <div style="page-break-after:always"></div>
 
@@ -163,7 +139,7 @@ Date de publication : 02/11/2026
 
 Source : https://www.it-connect.fr/enterpriseenrollment-ce-qui-change-pour-linscription-des-postes-windows-dans-intune/
 
-Résumé : À partir du 15 janvier 2027 Windows ne trouvera plus automatiquement Intune lors de l'inscription d'un ordinateur en mode MDM-only. Les utilisateurs vont devoir saisir manuellement l'adresse du serveur Intune, Les ordinateurs déjà inscrits ne sont pas concernés.
+Résumé : À partir du 15 janvier 2027 Windows ne trouvera plus automatiquement Intune lors de l'inscription d'un ordinateur en mode MDM-only. Les utilisateurs vont devoir saisir manuellement l'adresse du serveur Intune, les ordinateurs déjà inscrits ne sont pas concernés.
 
 
 
@@ -188,7 +164,7 @@ Ce site est édité par :
 **Sacha GRANDCOLAS**
 Email : sacha.grandcolas@ccicampus.fr
 
-Statut : étudiant en BTS SIO (Services informatiques aux organisations), option SISR, en alternance, au CCI Campus Strasbourg.
+Statut : étudiant en BTS SIO (Services informatiques aux organisations) option SISR, en alternance au CCI Campus Strasbourg.
 
 Ce site est un portfolio personnel à but pédagogique et non commercial, réalisé dans le cadre de ma formation.
 
