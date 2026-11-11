@@ -8,7 +8,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 ---
 # Contenu de la page web
 **Date de création** : 16/10/2026 - S.GRANDCOLAS
-**Date de modification** : 04/11/2026 - S.GRANDCOLAS
+**Date de modification** : 11/11/2026 - S.GRANDCOLAS
 **Sommaire :**
 
 > [TOC]
@@ -120,6 +120,16 @@ Le projet 4
 Ma veille technologique
 
 Vous pouvez ici retrouver l'ensemble des articles de presse concernant l'informatique que j'ai eu l'occasion de lire.
+
+
+
+Faille de sécurité critique dans Alpine Linux et OpenSSH
+
+Date de publication : 09/11/2026
+
+Source : https://www.zdnet.fr/actualites/alpine-linux-et-openssh-corrigent-une-faille-dune-gravite-sans-precedent-507570.htm
+
+Résumé : Une faille de sécurité dans OpenSSH touche Alpine Linux et certaines autres distributions qui utilisent la bibliothèque musl. Elle permet à un attaquant de contourner l'authentification SSH et d'accéder à certains comptes sans connaître leur mot de passe. Debian, Ubuntu et Fedora ne sont pas concernés, pour corriger cette faille Alpine Linux a publié des mises à jour de sécurité et recommande de mettre à jour les paquets concernés puis de redémarrer le service SSH.
 
 
 
