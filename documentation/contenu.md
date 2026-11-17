@@ -8,7 +8,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 ---
 # Contenu de la page web
 **Date de création** : 16/10/2026 - S.GRANDCOLAS
-**Date de modification** : 11/11/2026 - S.GRANDCOLAS
+**Date de modification** : 17/11/2026 - S.GRANDCOLAS
 **Sommaire :**
 
 > [TOC]
@@ -120,6 +120,16 @@ Le projet 4
 Ma veille technologique
 
 Vous pouvez ici retrouver l'ensemble des articles de presse concernant l'informatique que j'ai eu l'occasion de lire.
+
+
+
+Une panne mondiale touche Outlook et Microsoft 365
+
+Date de publication : 13/11/2026
+
+Source : https://www.franceinfo.fr/internet/microsoft/une-panne-mondiale-touche-la-messagerie-outlook-de-microsoft-les-mesures-pour-la-resoudre-ne-fonctionnent-pas-comme-prevu_8280422.html
+
+Résumé : Une panne mondiale a touché Outlook et plusieurs services de Microsoft 365 notamment Teams et Copilot. Des milliers d'utilisateurs dans 74 pays ont rencontré des difficultés pour accéder à leurs services. Microsoft a indiqué que ses premières mesures pour résoudre le problème ne fonctionnaient pas comme prévu et a dû chercher d'autres solutions.
 
 
 
