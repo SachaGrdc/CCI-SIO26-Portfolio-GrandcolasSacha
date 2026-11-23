@@ -59,23 +59,23 @@ Vous pouvez ici retrouver l'ensemble de mon parcours scolaire et professionnel.
 
 
 
-Mon parcours scolaire :
+Scolaire :
 
-BTS SIO - option SISR	CCI Campus - Strasbourg	2026 - Aujourd'hui	<img src="\var\www\html\portfolio\documentation\medias\cci.png" alt="Logo du CCI Campus" style="zoom:25%;" />
+2026 - 2028	BTS SIO - option SISR	CCI Campus - Strasbourg	<img src="\var\www\html\portfolio\documentation\medias\cci.png" alt="Logo du CCI Campus" style="zoom:25%;" />
 
-Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	2023 - 2026	<img src="\var\www\html\portfolio\documentation\medias\mangin.png" alt="logo lycée Mangin" style="zoom:25%;" />
+2023 - 2026	Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	<img src="\var\www\html\portfolio\documentation\medias\mangin.png" alt="logo lycée Mangin" style="zoom:25%;" />
 
-Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	2019 - 2023	<img src="\var\www\html\portfolio\documentation\medias\erckmann.png" alt="Logo du collège Erckman n Chatrian" style="zoom:25%;" />
+2019 - 2023	Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	<img src="\var\www\html\portfolio\documentation\medias\erckmann.png" alt="Logo du collège Erckman n Chatrian" style="zoom:25%;" />
 
 
 
-Mes expériences professionnelles : 
+Professionnel : 
 
-Alternance chez Lingenheld au service informatique	2026 - Aujourd'hui
+2026 - 2028	Lingenheld	Dabo - Alternance au service informatique	<img src="\var\www\html\portfolio\documentation\medias\lingenheld.png" alt="Logo de l'entreprise Lingenheld" style="zoom:25%;" />
 
-Stage chez Ferco au service informatique	2023 - 2024 - 2025
+2024 - 2026	Stage	Réding - Stage au service informatique	<img src="\var\www\html\portfolio\documentation\medias\ferco.png" alt="Logo de l'entreprise Ferco" style="zoom:25%;" />
 
-Stage chez FM Logistic au service informatique	2022
+2023 - 2024	FM Logistic	Phalsbourg - Stage au service informatique	<img src="\var\www\html\portfolio\documentation\medias\fm.png" alt="Logo de l'entreprise FM Logistic" style="zoom:25%;" />
 
 <div style="page-break-after:always"></div>
 
