@@ -191,6 +191,12 @@ Résumé : Deux grosses failles de sécurité ont été trouvées sur PHP, un tr
 
 ## 7. Page Mentions légales
 
+Les mentions légales
+
+Vous pouvez ici retrouver les mentions légales de ce site web
+
+
+
 *Dernière mise à jour : 30 octobre 2026*
 
 ### 1. Éditeur du site
