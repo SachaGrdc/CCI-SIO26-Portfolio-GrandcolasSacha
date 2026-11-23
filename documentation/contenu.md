@@ -91,15 +91,9 @@ Vous pouvez ici retrouver l'ensemble de mes projets que j'ai eu l'occasion de fa
 
 La carte électronique
 
-Lors de ce projet fait au lycée j'ai dû fabriquer une carte électronique de la conception du PCB à la fabrication de la carte avec un CNC.
+Ce projet consiste à concevoir une carte électronique permettant de détecter la luminosité ambiante grâce à un capteur crépusculaire. J'ai réalisé le schéma électronique et le routage du circuit imprimé avec KiCad. La carte a ensuite été fabriquée par usinage à l'aide de la machine CNC Perceval
 
-Tout d'abord j'ai choisi un projet parmi une liste proposé par mes professeurs, après réflexion mon choix s'est porté sur un interrupteur crépusculaire, c'est-à-dire une lumière que s'allume automatiquement dans l'obscurité et inversement qui s'éteint lorsque la luminosité augmente à nouveau.
-
-Ensuite, j'ai utilisé KiCad pour créer le schéma, le PCB ainsi que le routage des pistes
-
-Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensuite tracé gravé les pistes sur des plaques en cuivre.
-
-<img src="\var\www\html\portfolio\documentation\medias\schema_carte.png" alt="Schéma de la carte électronique" style="zoom:25%;" />
+<img src="\var\www\html\portfolio\documentation\medias\carte.png" alt="Photo de la carte électronique" style="zoom:25%;" />
 
 
 
@@ -115,7 +109,29 @@ Le projet 4
 
 <div style="page-break-after:always"></div>
 
-## 5. Page Veille technologique
+## 5. La Carte électronique
+
+La carte électronique
+
+Vous pouvez ici retrouver mon projet de conception d’une carte électronique que j’ai eu l’occasion de faire au lycée
+
+
+
+Lors de ce projet fait au lycée j'ai dû fabriquer une carte électronique de la conception du PCB à la fabrication de la carte avec un CNC.
+
+Tout d'abord j'ai choisi un projet parmi une liste proposé par mes professeurs, après réflexion mon choix s'est porté sur un interrupteur crépusculaire, c'est-à-dire une lumière que s'allume automatiquement dans l'obscurité et inversement qui s'éteint lorsque la luminosité augmente à nouveau.
+
+Ensuite, j'ai utilisé KiCad pour créer le schéma, le PCB ainsi que le routage des pistes
+
+Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensuite tracé gravé les pistes sur des plaques en cuivre.
+
+
+
+<img src="\var\www\html\portfolio\documentation\medias\schema_carte.png" alt="Photo de la carte électronique" style="zoom:25%;" />
+
+
+
+## 6. Page Veille technologique
 
 Ma veille technologique
 
@@ -173,7 +189,7 @@ Résumé : Deux grosses failles de sécurité ont été trouvées sur PHP, un tr
 
 <div style="page-break-after:always"></div>
 
-## 6. Page Mentions légales
+## 7. Page Mentions légales
 
 *Dernière mise à jour : 30 octobre 2026*
 
