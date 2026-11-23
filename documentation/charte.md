@@ -37,6 +37,8 @@ Certains textes, notamment ceux présents sur les fonds bruns sont affichés en 
 
 Lorsque plusieurs cases sont regroupées dans un même bloc comme sur la page Projets j'utilise la couleur #D9D9D9 pour le fond qui englobe l'ensemble. Les cases à l'intérieur utilisent la couleur #F4F0F0 afin de les distinguer du fond principal.
 
+Les images qui conservent un fond sont affichées avec des coins arrondis de 20 px tandis que les autres images sont affichées sans fond.
+
 ### 2.2. Typographie
 
 J'utilise la typographie Inter, au niveau de l'épaisseur de police j'alterne entre du "Bold" pour les éléments importants et du
