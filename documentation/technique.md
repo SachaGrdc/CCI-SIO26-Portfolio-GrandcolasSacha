@@ -23,13 +23,13 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 Afin de pouvoir travailler sur ce projet j'ai utilisé plusieurs outils : 
 
-**WSL** : C'est une sorte de "machine virtuelle" linux connecté à Windows et qui a pour but de pouvoir utiliser l'environnement linux directement via Windows, j'utilise Ubuntu 26.04 LTS comme OS
+**WSL** : C'est une sorte de "machine virtuelle" linux connecté à Windows et qui a pour but de pouvoir utiliser l'environnement linux directement via Windows, j'utilise Ubuntu 26.04 LTS comme OS, WSL est en version 3.0.3
 
-**Windows** : C'est le système d'exploitation principal que j'utilise, plus exactement j'utilise la version 26h2
+**Windows** : C'est le système d'exploitation principal que j'utilise, plus exactement j'utilise la version 26H2 
 
-**Visual Studio Code** : C'est l'éditeur de code que j'ai utilisé afin de pouvoir coder
+**Visual Studio Code** : C'est l'éditeur de code que j'utilise afin de pouvoir coder, la version est en 1.146.0
 
-**Typora** : C'est l'éditeur Markdown qui m'a permis de rédiger toute la documentation
+**Typora** : C'est l'éditeur Markdown qui me permet de rédiger toute la documentation
 
 **Apache** : C'est un logiciel qui sert à héberger et diffuser des sites web, j'utilise la version 2.4.66 de Apache2, je l'ai installé dans WSL
 
@@ -39,7 +39,7 @@ Afin de pouvoir travailler sur ce projet j'ai utilisé plusieurs outils :
 
 **GitHub** : C'est une plateforme qui permet d'héberger des projets informatiques et de partager leur code source. Je l'utilise pour stocker mon portfolio et conserver son historique de modifications
 
-**Figma** : C'est un outil qui permet de structurer des pages web en faisant des maquettes, je l'utilise pour créer les différentes pages de mon portfolio
+**Figma** : C'est un outil qui permet de structurer des pages web en faisant des maquettes, je l'utilise pour créer les différentes pages de mon portfolio, j'utilise la version web 
 
 
 
