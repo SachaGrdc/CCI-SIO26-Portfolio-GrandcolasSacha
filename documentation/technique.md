@@ -11,7 +11,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 # La technique
 
 **Date de création** : 16/10/2026 - S.GRANDCOLAS
-**Date de modification** : 11/11/2026 - S.GRANDCOLAS
+**Date de modification** : 23/11/2026 - S.GRANDCOLAS
 **Sommaire :**
 
 > [TOC]
@@ -87,7 +87,7 @@ portfolio/
 
 
 
-Cette arborescence se trouve dans l'emplacement suivant : /var/www/html/portfolio 
+Cette arborescence se trouve dans WSL à l'emplacement suivant : /var/www/html/portfolio 
 
 ### 3.3. Gestion et suivi du projet
 
