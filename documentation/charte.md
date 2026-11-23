@@ -35,6 +35,8 @@ Les titres, sous-titres ainsi que les textes courts et importants sont affichés
 
 Certains textes, notamment ceux présents sur les fonds bruns sont affichés en gris clair #D9D9D9 afin de conserver un contraste suffisant et de faciliter la lecture.
 
+Lorsque plusieurs cases sont regroupées dans un même bloc comme sur la page Projets j'utilise la couleur #D9D9D9 pour le fond qui englobe l'ensemble. Les cases à l'intérieur utilisent la couleur #F4F0F0 afin de les distinguer du fond principal.
+
 ### 2.2. Typographie
 
 J'utilise la typographie Inter, au niveau de l'épaisseur de police j'alterne entre du "Bold" pour les éléments importants et du

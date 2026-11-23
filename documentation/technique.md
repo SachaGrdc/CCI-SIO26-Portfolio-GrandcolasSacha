@@ -33,7 +33,7 @@ Afin de pouvoir travailler sur ce projet j'ai utilisé plusieurs outils :
 
 **Apache** : C'est un logiciel qui sert à héberger et diffuser des sites web, j'utilise la version 2.4.66 de Apache2, je l'ai installé dans WSL
 
-**Brave** : Le navigateur qui me permet de tester l'affichage du site web
+**Brave** : Le navigateur qui me permet de tester l'affichage du site web, celui-ci est en version 1.100.58
 
 **Git** : C'est un logiciel de gestion de versions qui permet de suivre l'ensemble des modifications d'un projet, j'utilise la version 2.53.0 dans WSL et la version 2.56.0 dans Windows
 
