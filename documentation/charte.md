@@ -49,6 +49,8 @@ Lorsque plusieurs cases sont regroupées dans un même bloc, comme sur la page P
 
 Les images qui conservent un fond sont affichées avec des coins arrondis de 20 px tandis que les autres images sont affichées sans fond.
 
+La couleur crème #F6EDE0 est utilisée pour le monogramme, le libellé « Langue » et la sélection de la langue.
+
 
 
 Les contrastes entre les textes et les fonds respectent le minimum d'accessibilité de 4,5:1.
@@ -67,12 +69,13 @@ Les contrastes entre les textes et les fonds respectent le minimum d'accessibili
 
 J'utilise la typographie Inter. J'alterne entre l'épaisseur « Bold » pour les titres et les éléments importants et « Regular » pour les paragraphes et les textes secondaires. Les titres sont affichés en gras et en majuscules afin de les faire ressortir.
 
-| Élément    | Épaisseur | Taille ordinateur | Taille mobile |
-| ---------- | --------- | ----------------- | ------------- |
-| Titre      | Bold      | 60 px             | 32 px         |
-| Sous-titre | Bold      | 40 px             | 24 px         |
-| Paragraphe | Regular   | 20 px             | 16 px         |
-| Bouton     | Regular   | 16 px             | 16 px         |
+| Élément             | Épaisseur | Taille ordinateur | Taille mobile |
+| ------------------- | --------- | ----------------- | ------------- |
+| Titre               | Bold      | 60 px             | 32 px         |
+| Sous-titre          | Bold      | 40 px             | 24 px         |
+| Eléments importants | Regular   | 24 px             | 16 px         |
+| Paragraphe          | Regular   | 20 px             | 16 px         |
+| Bouton              | Regular   | 16 px             | 16 px         |
 
 L'interligne des paragraphes est de 33 px sur ordinateur et de 26 px sur mobile. La police de secours est sans-serif.
 
@@ -94,6 +97,27 @@ J'utilise principalement des logos pour illustrer certaines informations, notamm
 Sur ordinateur, les liens de navigation sont disposés horizontalement. Sur mobile, ils sont regroupés dans un menu déroulant accessible avec le bouton « Menu ».
 
 Chaque image possède un texte alternatif.
+
+**Logo du portfolio**
+
+Le logo du portfolio reprend mes initiales « SG ». Il est affiché dans la barre de navigation et permet d'identifier mon site.
+
+<img src="medias/logo.png" alt="Logo du portfolio" title="Logo du portfolio" width="150"/>
+
+**Logos utilisés**
+
+Ces logos illustrent mes compétences et mon parcours. Ils permettent d'identifier rapidement les outils informatiques et les établissements présentés.
+
+<img src="medias/ubuntu-logo.png" alt="Logo Ubuntu" title="Ubuntu" width="150"/>
+<img src="medias/wireshark-logo.png" alt="Logo Wireshark" title="Wireshark" width="80"/>
+<img src="medias/HTML-CSS-logo.png" alt="Logos HTML et CSS" title="HTML et CSS" width="150"/>
+<img src="medias/cci.png" alt="Logo du CCI Campus" title="CCI Campus" width="150"/>
+
+**Boutons**
+
+Les boutons ont des coins arrondis et un style commun. Ils permettent de naviguer dans le site, de changer de langue, d'afficher le détail d'un projet et d'accéder aux mentions légales.
+
+<img src="medias/boutons.png" alt="Boutons du site" title="Boutons" width="400"/>
 
 ## 4. Maquettes responsive
 
