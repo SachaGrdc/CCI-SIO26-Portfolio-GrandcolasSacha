@@ -1,4 +1,11 @@
-
+---
+title: Charte
+author: Sacha Grandcolas
+creator: Typora inc.
+subject: Compte-rendu
+header:
+footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
+---
 
 # Charte
 
@@ -8,7 +15,6 @@
 
 > [TOC]
 
-<div style="page-break-after:always"></div>
 <div style="page-break-after:always"></div>
 
 ## 1. Contexte du projet
@@ -27,7 +33,7 @@ J'ai choisi un design épuré avec des couleurs sobres, notamment le brun, le bl
 
 ### 3.1. Couleurs
 
-Comme couleur principale, j'utilise : #573F3F
+Comme couleur principale, j'utilise du brun : #573F3F
 
 Les fonds des cartes et certains éléments sont en gris pâle : #F4F0F0. J'utilise également du gris clair #D9D9D9 pour différencier certaines parties des pages.
 
@@ -77,7 +83,7 @@ J'utilise principalement des logos pour illustrer certaines informations, notamm
 | Élément                     | Forme                                  | Coins arrondis | Bordure |
 | --------------------------- | -------------------------------------- | -------------- | ------- |
 | Barre de navigation         | Rectangulaire                          | 20 px          | Aucune  |
-| Boutons de navigation       | Rectangulaire (Intégrés dans la barre) | px             | Aucune  |
+| Boutons de navigation       | Rectangulaire (Intégrés dans la barre) | 8 px           | Aucune  |
 | Cartes                      | Rectangulaire                          | 20 px          | Aucune  |
 | Sélecteur de langue         | Rectangulaire                          | 8 px           | 2 px    |
 | Pied de page                | Rectangulaire                          | 20 px          | Aucune  |

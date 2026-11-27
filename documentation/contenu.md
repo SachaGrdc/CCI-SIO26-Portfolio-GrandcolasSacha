@@ -6,9 +6,9 @@ subject: Compte-rendu
 header:
 footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 ---
-# Contenu de la page web
+# Contenu
 **Date de création** : 16/10/2026 - S.GRANDCOLAS
-**Date de modification** : 25/11/2026 - S.GRANDCOLAS
+**Date de modification** : 27/11/2026 - S.GRANDCOLAS
 **Sommaire :**
 
 > [TOC]
@@ -20,9 +20,9 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 Accueil, Parcours, Projets, Veille technologique
 
-Sélecteur de langue 
+FR / EN
 
-<img src="\var\www\html\portfolio\documentation\medias\logo.png" alt="Logo du site web" style="zoom:35%;" />
+<img src="medias/logo.png" alt="Logo du site web" width="300"/>
 
 
 
@@ -46,11 +46,11 @@ Actuellement étudiant au CCI Campus de Strasbourg, je suis en alternance chez L
 
 
 
-Systèmes : Administration Windows / Linux	<img src="medias/ubuntu-logo.png" alt="Logo Ubuntu" style="zoom:15%;" />
+Systèmes : Administration Windows / Linux	<img src="medias/ubuntu-logo.png" alt="Logo Ubuntu" width="300" />
 
-Réseaux : Configuration et dépannage	<img src="medias/wireshark-logo.png" alt="Logo Wireshark" style="zoom:15%;" />
+Réseaux : Configuration et dépannage	<img src="medias/wireshark-logo.png" alt="Logo Wireshark" width="200"/>
 
-Développement : HTML / CSS	<img src="medias/HTML-CSS-logo.png" alt="Logos HTML et CSS" style="zoom:25%;" />
+Développement : HTML / CSS	<img src="medias/HTML-CSS-logo.png" alt="Logos HTML et CSS" width="300"/>
 
 
 
@@ -66,21 +66,21 @@ Vous pouvez ici retrouver l'ensemble de mon parcours scolaire et professionnel.
 
 Scolaire :
 
-2026 - 2028	BTS SIO - option SISR	CCI Campus - Strasbourg	<img src="medias/cci.png" alt="Logo du CCI Campus" style="zoom:25%;" />
+2026 - 2028	BTS SIO - option SISR	CCI Campus - Strasbourg	<img src="medias/cci.png" alt="Logo du CCI Campus" width="200"/>
 
-2023 - 2026	Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	<img src="medias/mangin.png" alt="Logo du lycée Mangin" style="zoom:25%;" />
+2023 - 2026	Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	<img src="medias/mangin.png" alt="Logo du lycée Mangin" width="200"/>
 
-2019 - 2023	Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	<img src="medias/erckmann.png" alt="Logo du collège Erckmann-Chatrian" style="zoom:50%;" />
+2019 - 2023	Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	<img src="medias/erckmann.png" alt="Logo du collège Erckmann-Chatrian" width="200"/>
 
 
 
 Professionnel : 
 
-2026 - 2028	Lingenheld	Dabo - Alternance au service informatique	<img src="medias/lingenheld.png" alt="Logo de l'entreprise Lingenheld" style="zoom:25%;" />
+2026 - 2028	Lingenheld	Dabo - Alternance au service informatique	<img src="medias/lingenheld.png" alt="Logo de l'entreprise Lingenheld" width="200"/>
 
-2024 - 2026	Ferco	Réding - Stage au service informatique	<img src="medias/ferco.png" alt="Logo de l'entreprise Ferco" style="zoom:25%;" />
+2024 - 2026	Ferco	Réding - Stage au service informatique	<img src="medias/ferco.png" alt="Logo de l'entreprise Ferco" width="200"/>
 
-2023 - 2024	FM Logistic	Phalsbourg - Stage au service informatique	<img src="medias/fm.png" alt="Logo de l'entreprise FM Logistic" style="zoom:25%;" />
+2023 - 2024	FM Logistic	Phalsbourg - Stage au service informatique	<img src="medias/fm.png" alt="Logo de l'entreprise FM Logistic" width="200"/>
 
 <div style="page-break-after:always"></div>
 
@@ -102,7 +102,7 @@ Ce projet consiste à concevoir une carte électronique permettant de détecter 
 
 Voir plus 
 
-<img src="medias/carte.png" alt="Photo de la carte électronique" style="zoom:50%;" />
+<img src="medias/carte.png" alt="Photo de la carte électronique" width="300"/>
 
 
 
@@ -114,7 +114,7 @@ Ce projet consiste à créer mon portfolio personnel afin de présenter mon parc
 
 Voir plus 
 
-<img src="medias/page_accueil.png" alt="Capture d’écran du portfolio" style="zoom:50%;" />
+<img src="medias/page_accueil.png" alt="Capture d’écran du portfolio" width="300"/>
 
 
 
@@ -152,7 +152,7 @@ Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensui
 
 
 
-<img src="medias/schema_carte.png" alt="Schéma électronique réalisé avec KiCad" style="zoom:25%;" />
+<img src="medias/schema_carte.png" alt="Schéma électronique réalisé avec KiCad" width="500"/>
 
 <div style="page-break-after:always"></div>
 
@@ -174,7 +174,7 @@ Enfin, j'utilise Git et GitHub pour suivre l'avancement du projet et conserver l
 
 
 
-<img src="medias/portfolio.png" alt="Capture d’écran de la page d’accueil du portfolio" style="zoom:50;" />
+<img src="medias/portfolio.png" alt="Capture d’écran de la page d’accueil du portfolio" width="500"/>
 
 <div style="page-break-after:always"></div>
 
@@ -182,7 +182,7 @@ Enfin, j'utilise Git et GitHub pour suivre l'avancement du projet et conserver l
 
 Ce projet est à venir.
 
-**Illustration** : [image, titre et texte alternatif]
+**Illustration** : à venir
 **Compétences du référentiel mobilisées** : à venir
 **Documents de présentation** : à venir
 **Documentation technique** : à venir
@@ -194,7 +194,7 @@ Ce projet est à venir.
 
 Ce projet est à venir.
 
-**Illustration** : [image, titre et texte alternatif]
+**Illustration** : à venir
 **Compétences du référentiel mobilisées** : à venir
 **Documents de présentation** : à venir
 **Documentation technique** : à venir
@@ -202,7 +202,7 @@ Ce projet est à venir.
 
 
 
-## 7. Page Veille technologique
+## 9. Page Veille technologique
 
 Ma veille technologique
 
@@ -260,7 +260,7 @@ Résumé : Deux grosses failles de sécurité ont été trouvées sur PHP, un la
 
 <div style="page-break-after:always"></div>
 
-## 8. Page Mentions légales
+## 10. Page Mentions légales
 
 Les mentions légales
 
@@ -289,7 +289,7 @@ Le directeur de la publication est Sacha GRANDCOLAS, en qualité d’éditeur du
 
 Le site est hébergé par :
 
-
+L'hébergeur sera précisé lors de la mise en ligne du site.
 
 ### 4. Propriété intellectuelle
 
@@ -311,6 +311,6 @@ Ce site peut contenir des liens vers des sites tiers (par exemple GitHub ou Link
 
 ### 8. Droit applicable
 
-Le présent site et ses mentions légales sont soumis au droit français. En cas de litige, les tribunaux français sont seuls compétents
+Le présent site et ses mentions légales sont soumis au droit français. En cas de litige, les tribunaux français sont seuls compétents.
 
 <div style="page-break-after:always"></div>
