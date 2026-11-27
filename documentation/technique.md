@@ -41,6 +41,8 @@ Afin de pouvoir travailler sur ce projet j'ai utilisé plusieurs outils :
 
 **Figma** : C'est un outil qui permet de structurer des pages web en faisant des maquettes, je l'utilise pour créer les différentes pages de mon portfolio, j'utilise la version web 
 
+**SSH** : C'est un protocole réseau sécurisé qui permet de se connecter à distance à un appareil (ordinateur ou serveur) et d'y exécuter des commandes via une connexion chiffrée, j'utilise ce protocole pour envoyer les commit sur github
+
 
 
 ## 2. Les langages et technologies
@@ -69,6 +71,7 @@ Les fichiers du site web seront regroupés dans un dossier dédié avec les page
 
 Voici l'ensemble de l'arborescence du projet : 
 
+```
 portfolio/
 ├── README.md
 ├── documentation/
@@ -84,6 +87,7 @@ portfolio/
         ├── js/
         │   └── main.js
         └── img/
+```
 
 
 

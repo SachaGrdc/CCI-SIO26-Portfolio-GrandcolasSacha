@@ -8,14 +8,14 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 ---
 # Contenu de la page web
 **Date de création** : 16/10/2026 - S.GRANDCOLAS
-**Date de modification** : 17/11/2026 - S.GRANDCOLAS
+**Date de modification** : 25/11/2026 - S.GRANDCOLAS
 **Sommaire :**
 
 > [TOC]
 <div style="page-break-after:always"></div>
 <div style="page-break-after:always"></div>
 
-## 1. Éléments présent dans toutes les pages
+## 1. Éléments présents dans toutes les pages
 
 ### 1.1. Menu de navigation
 
@@ -23,7 +23,7 @@ Accueil, Parcours, Projets, Veille technologique
 
 ### 1.2. Pied de page
 
-Sacha GRANDCOLAS, mentions légales, Github, Linkeldin
+Sacha GRANDCOLAS, mentions légales, GitHub, LinkedIn
 
 <div style="page-break-after:always"></div>
 
@@ -33,7 +33,7 @@ Bienvenue
 
 SACHA GRANDCOLAS 
 
-ETUDIANT EN BTS SIO - OPTION SISR
+ÉTUDIANT EN BTS SIO - OPTION SISR
 
 Je suis actuellement étudiant au CCI Campus de Strasbourg
 
@@ -41,9 +41,9 @@ Actuellement étudiant au CCI Campus de Strasbourg, je suis en alternance chez L
 
 
 
-Systèmes : Administration Windows / Linux	<img src="\var\www\html\portfolio\documentation\medias\ubuntu-logo.png" alt="ubuntu-logo" style="zoom:25%;" />
+Systèmes : Administration Windows / Linux	<img src="\var\www\html\portfolio\documentation\medias\ubuntu-logo.png" alt="ubuntu-logo" style="zoom:15%;" />
 
-Réseaux : Configuration et dépannage	<img src="\var\www\html\portfolio\documentation\medias\wireshark-logo.png" alt="wireshark-logo" style="zoom:25%;" />
+Réseaux : Configuration et dépannage	<img src="\var\www\html\portfolio\documentation\medias\wireshark-logo.png" alt="wireshark-logo" style="zoom:15%;" />
 
 Développement : HTML / CSS	<img src="\var\www\html\portfolio\documentation\medias\HTML-CSS-logo.png" alt="HTML-CSS-logo" style="zoom:25%;" />
 
@@ -65,7 +65,7 @@ Scolaire :
 
 2023 - 2026	Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	<img src="\var\www\html\portfolio\documentation\medias\mangin.png" alt="logo lycée Mangin" style="zoom:25%;" />
 
-2019 - 2023	Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	<img src="\var\www\html\portfolio\documentation\medias\erckmann.png" alt="Logo du collège Erckman n Chatrian" style="zoom:25%;" />
+2019 - 2023	Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	<img src="\var\www\html\portfolio\documentation\medias\erckmann.png" alt="Logo du collège Erckman n Chatrian" style="zoom:50%;" />
 
 
 
@@ -85,7 +85,7 @@ Professionnel :
 
 Mes projets
 
-Vous pouvez ici retrouver l'ensemble de mes projets que j'ai eu l'occasion de faire lors de mon Bac professionnel CIEL et BTS SIO.
+Vous pouvez ici retrouver l'ensemble des projets que j'ai réalisés durant mon Bac professionnel CIEL et mon BTS SIO.
 
 
 
@@ -93,11 +93,15 @@ La carte électronique
 
 Ce projet consiste à concevoir une carte électronique permettant de détecter la luminosité ambiante grâce à un capteur crépusculaire. J'ai réalisé le schéma électronique et le routage du circuit imprimé avec KiCad. La carte a ensuite été fabriquée par usinage à l'aide de la machine CNC Perceval
 
-<img src="\var\www\html\portfolio\documentation\medias\carte.png" alt="Photo de la carte électronique" style="zoom:25%;" />
+<img src="\var\www\html\portfolio\documentation\medias\carte.png" alt="Photo de la carte électronique" style="zoom:50%;" />
 
 
 
 Le portfolio
+
+Ce projet consiste à créer mon portfolio personnel afin de présenter mon parcours, mes compétences et mes différents projets. Je réalise les maquettes sur Figma, puis je développe le site en HTML, CSS et JavaScript.
+
+<img src="\var\www\html\portfolio\documentation\medias\page_accueil.png" alt="Capture d’écran du portfolio" style="zoom:50%;" />
 
 
 
@@ -109,7 +113,7 @@ Le projet 4
 
 <div style="page-break-after:always"></div>
 
-## 5. La Carte électronique
+## 5. La carte électronique
 
 La carte électronique
 
@@ -117,21 +121,43 @@ Vous pouvez ici retrouver mon projet de conception d’une carte électronique q
 
 
 
-Lors de ce projet fait au lycée j'ai dû fabriquer une carte électronique de la conception du PCB à la fabrication de la carte avec un CNC.
+Lors de ce projet fait au lycée j'ai dû fabriquer une carte électronique de la conception du PCB à la fabrication de la carte à l’aide d’une machine CNC.
 
-Tout d'abord j'ai choisi un projet parmi une liste proposé par mes professeurs, après réflexion mon choix s'est porté sur un interrupteur crépusculaire, c'est-à-dire une lumière que s'allume automatiquement dans l'obscurité et inversement qui s'éteint lorsque la luminosité augmente à nouveau.
+Tout d'abord j'ai choisi un projet parmi une liste proposée par mes professeurs, après réflexion mon choix s'est porté sur un interrupteur crépusculaire, c'est-à-dire une lumière qui s'allume automatiquement dans l'obscurité et inversement qui s'éteint lorsque la luminosité augmente à nouveau.
 
 Ensuite, j'ai utilisé KiCad pour créer le schéma, le PCB ainsi que le routage des pistes
 
-Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensuite tracé gravé les pistes sur des plaques en cuivre.
+Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensuite tracé et gravé les pistes sur des plaques en cuivre.
 
 
 
-<img src="\var\www\html\portfolio\documentation\medias\schema_carte.png" alt="Photo de la carte électronique" style="zoom:25%;" />
+<img src="\var\www\html\portfolio\documentation\medias\schema_carte.png" alt="Schéma électronique réalisé avec KiCad" style="zoom:25%;" />
+
+<div style="page-break-after:always"></div>
+
+## 6. Le portfolio
+
+Le portfolio
+
+Vous pouvez ici retrouver mon projet de création d’un portfolio
 
 
 
-## 6. Page Veille technologique
+Pour ce projet, j'ai dû créer mon propre portfolio afin de présenter mon parcours scolaire, mes compétences et les différents projets que j'ai réalisés.
+
+Tout d'abord, j'ai réfléchi à l'organisation du site et à son apparence. J'ai ensuite réalisé les différentes maquettes sur Figma afin de définir le design et la disposition des éléments sur chaque page.
+
+Ensuite, j'ai commencé le développement du site en utilisant HTML, CSS et JavaScript pour créer les pages et mettre en place leur mise en forme.
+
+Enfin, j'utilise Git et GitHub pour suivre l'avancement du projet et conserver les différentes versions de mon travail.
+
+
+
+<img src="\var\www\html\portfolio\documentation\medias\portfolio.png" alt="Capture d’écran de la page d’accueil du portfolio" style="zoom:50;" />
+
+<div style="page-break-after:always"></div>
+
+## 7. Page Veille technologique
 
 Ma veille technologique
 
@@ -185,11 +211,11 @@ Date de publication : 21/10/2026
 
 Source : https://www.lemonde.fr/pixels/article/2026/10/21/failles-php-pourquoi-de-nombreux-sites-ont-soudainement-ete-mis-en-maintenance_6798279_4408996.html
 
-Résumé : Deux grosses failles de sécurité ont été trouvées sur PHP, un très utilisé sur les sites internet. Face à cela beaucoup de sites dans le monde se sont mis en maintenance par précaution pour éviter de se faire pirater en attendant les mises à jour, finalement la mise à jour corrigeant ces failles a été publié peu de temps après.
+Résumé : Deux grosses failles de sécurité ont été trouvées sur PHP, un langage très utilisé sur les sites internet. Face à cela beaucoup de sites dans le monde se sont mis en maintenance par précaution pour éviter de se faire pirater en attendant les mises à jour, finalement la mise à jour corrigeant ces failles a été publiée peu de temps après.
 
 <div style="page-break-after:always"></div>
 
-## 7. Page Mentions légales
+## 8. Page Mentions légales
 
 Les mentions légales
 

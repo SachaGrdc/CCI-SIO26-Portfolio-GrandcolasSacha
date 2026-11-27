@@ -41,13 +41,9 @@ Les images qui conservent un fond sont affichées avec des coins arrondis de 20 
 
 ### 2.2. Typographie
 
-J'utilise la typographie Inter, au niveau de l'épaisseur de police j'alterne entre du "Bold" pour les éléments importants et du
+J'utilise la typographie Inter. J'alterne entre l'épaisseur « Bold » pour les titres et les éléments importants et « Regular » pour les paragraphes et les textes secondaires. Les titres sont affichés en gras et en majuscules afin de les faire ressortir.
 
-"Regular" pour des éléments plus secondaires. 
 
-Les titres sont affichés en gras et en majuscule afin de les faire ressortir.
-
-Les paragraphes et les textes classiques utilisent principalement l'épaisseur "Regular" tandis que les titres et les informations importantes utilisent l'épaisseur "Bold"
 
 ### 2.3. Logo, icônes et boutons
 
@@ -64,3 +60,13 @@ Le pied de page possède une forme rectangulaire avec des coins arrondis, de la 
 ## 3. Maquettes responsive
 
 ## 4. Navigation du site
+
+Le menu de navigation est présent sur toutes les pages du site. Il permet d'accéder aux pages Accueil, Parcours, Projets et Veille technologique. Un sélecteur permet de choisir entre la version française et la version anglaise du site.
+
+Le pied de page contient mon nom ainsi que des liens vers LinkedIn, GitHub et les mentions légales.
+
+
+
+
+
+### 
