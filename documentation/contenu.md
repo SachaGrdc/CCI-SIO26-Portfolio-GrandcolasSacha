@@ -22,7 +22,7 @@ Accueil, Parcours, Projets, Veille technologique
 
 FR / EN
 
-<img src="medias/logo.png" alt="Logo du site web" width="300"/>
+<img src="medias/logo.png" alt="Logo du site web" title="Logo du portfolio" width="300"/>
 
 
 
@@ -46,11 +46,11 @@ Actuellement étudiant au CCI Campus de Strasbourg, je suis en alternance chez L
 
 
 
-Systèmes : Administration Windows / Linux	<img src="medias/ubuntu-logo.png" alt="Logo Ubuntu" width="300" />
+Systèmes : Administration Windows / Linux	<img src="medias/ubuntu-logo.png" alt="Logo Ubuntu" title="Ubuntu" width="300" />
 
-Réseaux : Configuration et dépannage	<img src="medias/wireshark-logo.png" alt="Logo Wireshark" width="200"/>
+Réseaux : Configuration et dépannage	<img src="medias/wireshark-logo.png" alt="Logo Wireshark" title="Wireshark" width="200"/>
 
-Développement : HTML / CSS	<img src="medias/HTML-CSS-logo.png" alt="Logos HTML et CSS" width="300"/>
+Développement : HTML / CSS	<img src="medias/HTML-CSS-logo.png" alt="Logos HTML et CSS" title="HTML et CSS" width="300"/>
 
 
 
@@ -66,21 +66,21 @@ Vous pouvez ici retrouver l'ensemble de mon parcours scolaire et professionnel.
 
 Scolaire :
 
-2026 - 2028	BTS SIO - option SISR	CCI Campus - Strasbourg	<img src="medias/cci.png" alt="Logo du CCI Campus" width="200"/>
+2026 - 2028	BTS SIO - option SISR	CCI Campus - Strasbourg	<img src="medias/cci.png" alt="Logo du CCI Campus" title="CCI Campus" width="200"/>
 
-2023 - 2026	Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	<img src="medias/mangin.png" alt="Logo du lycée Mangin" width="200"/>
+2023 - 2026	Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	<img src="medias/mangin.png" alt="Logo du lycée Mangin" title="Lycée Mangin" width="200"/>
 
-2019 - 2023	Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	<img src="medias/erckmann.png" alt="Logo du collège Erckmann-Chatrian" width="200"/>
+2019 - 2023	Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	<img src="medias/erckmann.png" alt="Logo du collège Erckmann-Chatrian" title="Collège Erckmann-Chatrian" width="200"/>
 
 
 
 Professionnel : 
 
-2026 - 2028	Lingenheld	Dabo - Alternance au service informatique	<img src="medias/lingenheld.png" alt="Logo de l'entreprise Lingenheld" width="200"/>
+2026 - 2028	Lingenheld	Dabo - Alternance au service informatique	<img src="medias/lingenheld.png" alt="Logo de l'entreprise Lingenheld" title="Lingenheld" width="200"/>
 
-2024 - 2026	Ferco	Réding - Stage au service informatique	<img src="medias/ferco.png" alt="Logo de l'entreprise Ferco" width="200"/>
+2024 - 2026	Ferco	Réding - Stage au service informatique	<img src="medias/ferco.png" alt="Logo de l'entreprise Ferco" title="Ferco" width="200"/>
 
-2023 - 2024	FM Logistic	Phalsbourg - Stage au service informatique	<img src="medias/fm.png" alt="Logo de l'entreprise FM Logistic" width="200"/>
+2023 - 2024	FM Logistic	Phalsbourg - Stage au service informatique	<img src="medias/fm.png" alt="Logo de l'entreprise FM Logistic" title="FM Logistic" width="200"/>
 
 <div style="page-break-after:always"></div>
 
@@ -94,7 +94,7 @@ Vous pouvez ici retrouver l'ensemble des projets que j'ai réalisés durant mon 
 
 
 
-La carte électronique
+**La carte électronique**
 
 Ce projet consiste à concevoir une carte électronique permettant de détecter la luminosité ambiante grâce à un capteur crépusculaire. J'ai réalisé le schéma électronique et le routage du circuit imprimé avec KiCad. La carte a ensuite été fabriquée par usinage à l'aide de la machine CNC et du logiciel Perceval
 
@@ -102,11 +102,11 @@ Ce projet consiste à concevoir une carte électronique permettant de détecter 
 
 Voir plus 
 
-<img src="medias/carte.png" alt="Photo de la carte électronique" width="300"/>
+<img src="medias/carte.png" alt="Photo de la carte électronique" title="La carte électronique" width="300"/>
 
 
 
-Le portfolio
+**Le portfolio**
 
 Ce projet consiste à créer mon portfolio personnel afin de présenter mon parcours, mes compétences et mes différents projets. Je réalise les maquettes sur Figma, puis je développe le site en HTML, CSS et JavaScript.
 
@@ -114,23 +114,27 @@ Ce projet consiste à créer mon portfolio personnel afin de présenter mon parc
 
 Voir plus 
 
-<img src="medias/page_accueil.png" alt="Capture d’écran du portfolio" width="300"/>
+<img src="medias/page_accueil.png" alt="Capture d’écran du portfolio" title="Le portfolio" width="300"/>
 
 
 
-Atelier de professionnalisation 3
+**Atelier de professionnalisation 3**
+
+Ce projet est à venir.
+
+Voir plus 
+
+<img src="medias/a-venir.png" alt="Message d'information" title="Message d'information" width="250"/>
 
 
+
+**Atelier de professionnalisation 4**
+
+Ce projet est à venir.
 
 Voir plus 
 
-
-
-Atelier de professionnalisation 4
-
-
-
-Voir plus 
+<img src="medias/a-venir.png" alt="Message d'information" title="Message d'information" width="250"/>
 
 <div style="page-break-after:always"></div>
 
@@ -152,7 +156,7 @@ Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensui
 
 
 
-<img src="medias/schema_carte.png" alt="Schéma électronique réalisé avec KiCad" width="500"/>
+<img src="medias/schema_carte.png" alt="Schéma électronique réalisé avec KiCad" title="Schéma de la carte" width="500"/>
 
 <div style="page-break-after:always"></div>
 
@@ -174,7 +178,7 @@ Enfin, j'utilise Git et GitHub pour suivre l'avancement du projet et conserver l
 
 
 
-<img src="medias/portfolio.png" alt="Capture d’écran de la page d’accueil du portfolio" width="500"/>
+<img src="medias/portfolio.png" alt="Capture d’écran de la page d’accueil du portfolio" title="Page d'accueil" width="500"/>
 
 <div style="page-break-after:always"></div>
 
@@ -188,7 +192,7 @@ Ce projet est à venir.
 **Documentation technique** : à venir
 **Documentation utilisateur** : à venir
 
-
+<div style="page-break-after:always"></div>
 
 ## 8. Atelier de professionnalisation 4
 
@@ -200,7 +204,7 @@ Ce projet est à venir.
 **Documentation technique** : à venir
 **Documentation utilisateur** : à venir
 
-
+<div style="page-break-after:always"></div>
 
 ## 9. Page Veille technologique
 
@@ -264,7 +268,7 @@ Résumé : Deux grosses failles de sécurité ont été trouvées sur PHP, un la
 
 Les mentions légales
 
-Vous pouvez ici retrouver les mentions légales de ce site web
+Vous pouvez ici retrouver les mentions légales de ce site web.
 
 
 
@@ -274,7 +278,8 @@ Vous pouvez ici retrouver les mentions légales de ce site web
 
 Ce site est édité par :
 
-**Sacha GRANDCOLAS**
+Sacha GRANDCOLAS
+
 Email : sacha.grandcolas@ccicampus.fr
 
 Statut : étudiant en BTS SIO (Services informatiques aux organisations) option SISR, en alternance au CCI Campus Strasbourg.
@@ -286,8 +291,6 @@ Ce site est un portfolio personnel à but pédagogique et non commercial, réali
 Le directeur de la publication est Sacha GRANDCOLAS, en qualité d’éditeur du site.
 
 ### 3. Hébergement
-
-Le site est hébergé par :
 
 L'hébergeur sera précisé lors de la mise en ligne du site.
 
