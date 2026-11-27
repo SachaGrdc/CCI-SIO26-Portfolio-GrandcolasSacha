@@ -13,7 +13,6 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 > [TOC]
 <div style="page-break-after:always"></div>
-<div style="page-break-after:always"></div>
 
 ## 1. Éléments présents dans toutes les pages
 
@@ -47,11 +46,11 @@ Actuellement étudiant au CCI Campus de Strasbourg, je suis en alternance chez L
 
 
 
-Systèmes : Administration Windows / Linux	<img src="\var\www\html\portfolio\documentation\medias\ubuntu-logo.png" alt="ubuntu-logo" style="zoom:15%;" />
+Systèmes : Administration Windows / Linux	<img src="medias/ubuntu-logo.png" alt="Logo Ubuntu" style="zoom:15%;" />
 
-Réseaux : Configuration et dépannage	<img src="\var\www\html\portfolio\documentation\medias\wireshark-logo.png" alt="wireshark-logo" style="zoom:15%;" />
+Réseaux : Configuration et dépannage	<img src="medias/wireshark-logo.png" alt="Logo Wireshark" style="zoom:15%;" />
 
-Développement : HTML / CSS	<img src="\var\www\html\portfolio\documentation\medias\HTML-CSS-logo.png" alt="HTML-CSS-logo" style="zoom:25%;" />
+Développement : HTML / CSS	<img src="medias/HTML-CSS-logo.png" alt="Logos HTML et CSS" style="zoom:25%;" />
 
 
 
@@ -67,21 +66,21 @@ Vous pouvez ici retrouver l'ensemble de mon parcours scolaire et professionnel.
 
 Scolaire :
 
-2026 - 2028	BTS SIO - option SISR	CCI Campus - Strasbourg	<img src="\var\www\html\portfolio\documentation\medias\cci.png" alt="Logo du CCI Campus" style="zoom:25%;" />
+2026 - 2028	BTS SIO - option SISR	CCI Campus - Strasbourg	<img src="medias/cci.png" alt="Logo du CCI Campus" style="zoom:25%;" />
 
-2023 - 2026	Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	<img src="\var\www\html\portfolio\documentation\medias\mangin.png" alt="logo lycée Mangin" style="zoom:25%;" />
+2023 - 2026	Baccalauréat Professionnel CIEL	Lycée Mangin - Sarrebourg	<img src="medias/mangin.png" alt="Logo du lycée Mangin" style="zoom:25%;" />
 
-2019 - 2023	Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	<img src="\var\www\html\portfolio\documentation\medias\erckmann.png" alt="Logo du collège Erckman n Chatrian" style="zoom:50%;" />
+2019 - 2023	Collège 	Cité scolaire Erckmann-Chatrian - Phalsbourg	<img src="medias/erckmann.png" alt="Logo du collège Erckmann-Chatrian" style="zoom:50%;" />
 
 
 
 Professionnel : 
 
-2026 - 2028	Lingenheld	Dabo - Alternance au service informatique	<img src="\var\www\html\portfolio\documentation\medias\lingenheld.png" alt="Logo de l'entreprise Lingenheld" style="zoom:25%;" />
+2026 - 2028	Lingenheld	Dabo - Alternance au service informatique	<img src="medias/lingenheld.png" alt="Logo de l'entreprise Lingenheld" style="zoom:25%;" />
 
-2024 - 2026	Stage	Réding - Stage au service informatique	<img src="\var\www\html\portfolio\documentation\medias\ferco.png" alt="Logo de l'entreprise Ferco" style="zoom:25%;" />
+2024 - 2026	Ferco	Réding - Stage au service informatique	<img src="medias/ferco.png" alt="Logo de l'entreprise Ferco" style="zoom:25%;" />
 
-2023 - 2024	FM Logistic	Phalsbourg - Stage au service informatique	<img src="\var\www\html\portfolio\documentation\medias\fm.png" alt="Logo de l'entreprise FM Logistic" style="zoom:25%;" />
+2023 - 2024	FM Logistic	Phalsbourg - Stage au service informatique	<img src="medias/fm.png" alt="Logo de l'entreprise FM Logistic" style="zoom:25%;" />
 
 <div style="page-break-after:always"></div>
 
@@ -97,9 +96,13 @@ Vous pouvez ici retrouver l'ensemble des projets que j'ai réalisés durant mon 
 
 La carte électronique
 
-Ce projet consiste à concevoir une carte électronique permettant de détecter la luminosité ambiante grâce à un capteur crépusculaire. J'ai réalisé le schéma électronique et le routage du circuit imprimé avec KiCad. La carte a ensuite été fabriquée par usinage à l'aide de la machine CNC Perceval
+Ce projet consiste à concevoir une carte électronique permettant de détecter la luminosité ambiante grâce à un capteur crépusculaire. J'ai réalisé le schéma électronique et le routage du circuit imprimé avec KiCad. La carte a ensuite été fabriquée par usinage à l'aide de la machine CNC et du logiciel Perceval
 
-<img src="\var\www\html\portfolio\documentation\medias\carte.png" alt="Photo de la carte électronique" style="zoom:50%;" />
+
+
+Voir plus 
+
+<img src="medias/carte.png" alt="Photo de la carte électronique" style="zoom:50%;" />
 
 
 
@@ -107,15 +110,27 @@ Le portfolio
 
 Ce projet consiste à créer mon portfolio personnel afin de présenter mon parcours, mes compétences et mes différents projets. Je réalise les maquettes sur Figma, puis je développe le site en HTML, CSS et JavaScript.
 
-<img src="\var\www\html\portfolio\documentation\medias\page_accueil.png" alt="Capture d’écran du portfolio" style="zoom:50%;" />
+
+
+Voir plus 
+
+<img src="medias/page_accueil.png" alt="Capture d’écran du portfolio" style="zoom:50%;" />
 
 
 
-Le projet 3
+Atelier de professionnalisation 3
 
 
 
-Le projet 4
+Voir plus 
+
+
+
+Atelier de professionnalisation 4
+
+
+
+Voir plus 
 
 <div style="page-break-after:always"></div>
 
@@ -137,7 +152,7 @@ Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensui
 
 
 
-<img src="\var\www\html\portfolio\documentation\medias\schema_carte.png" alt="Schéma électronique réalisé avec KiCad" style="zoom:25%;" />
+<img src="medias/schema_carte.png" alt="Schéma électronique réalisé avec KiCad" style="zoom:25%;" />
 
 <div style="page-break-after:always"></div>
 
@@ -145,13 +160,13 @@ Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensui
 
 Le portfolio
 
-Vous pouvez ici retrouver mon projet de création d’un portfolio
+Vous pouvez ici retrouver mon projet de création d’un portfolio.
 
 
 
 Pour ce projet, j'ai dû créer mon propre portfolio afin de présenter mon parcours scolaire, mes compétences et les différents projets que j'ai réalisés.
 
-Tout d'abord, j'ai réfléchi à l'organisation du site et à son apparence. J'ai ensuite réalisé les différentes maquettes sur Figma afin de définir le design et la disposition des éléments sur chaque page.
+Tout d'abord, j'ai réfléchi à l'organisation du site et à son apparence. J'ai alors réalisé les différentes maquettes sur Figma afin de définir le design et la disposition des éléments sur chaque page.
 
 Ensuite, j'ai commencé le développement du site en utilisant HTML, CSS et JavaScript pour créer les pages et mettre en place leur mise en forme.
 
@@ -159,9 +174,33 @@ Enfin, j'utilise Git et GitHub pour suivre l'avancement du projet et conserver l
 
 
 
-<img src="\var\www\html\portfolio\documentation\medias\portfolio.png" alt="Capture d’écran de la page d’accueil du portfolio" style="zoom:50;" />
+<img src="medias/portfolio.png" alt="Capture d’écran de la page d’accueil du portfolio" style="zoom:50;" />
 
 <div style="page-break-after:always"></div>
+
+## 7. Atelier de professionnalisation 3
+
+Ce projet est à venir.
+
+**Illustration** : [image, titre et texte alternatif]
+**Compétences du référentiel mobilisées** : à venir
+**Documents de présentation** : à venir
+**Documentation technique** : à venir
+**Documentation utilisateur** : à venir
+
+
+
+## 8. Atelier de professionnalisation 4
+
+Ce projet est à venir.
+
+**Illustration** : [image, titre et texte alternatif]
+**Compétences du référentiel mobilisées** : à venir
+**Documents de présentation** : à venir
+**Documentation technique** : à venir
+**Documentation utilisateur** : à venir
+
+
 
 ## 7. Page Veille technologique
 
