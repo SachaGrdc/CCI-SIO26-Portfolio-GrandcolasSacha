@@ -21,6 +21,10 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 Accueil, Parcours, Projets, Veille technologique
 
+<img src="\var\www\html\portfolio\documentation\medias\ubuntu-logo.png" alt="ubuntu-logo" style="zoom:15%;" />
+
+
+
 ### 1.2. Pied de page
 
 Sacha GRANDCOLAS, mentions légales, GitHub, LinkedIn
