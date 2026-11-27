@@ -121,6 +121,35 @@ Les boutons ont des coins arrondis et un style commun. Ils permettent de navigue
 
 ## 4. Maquettes responsive
 
+Les maquettes ont été réalisées avec Figma : https://www.figma.com/design/AXQ2QnOl2RCgxVYD5t6VY7/portfolio-sacha?node-id=2002-360&t=XlyQu04H0cH7PYUu-1
+
+### 4.1. Accueil
+<img src="medias/accueil.png" alt="Maquette de la page Accueil" title="Accueil" width="500"/>
+
+### 4.2. Parcours
+<img src="medias/parcours.png" alt="Maquette de la page Parcours" title="Parcours" width="500"/>
+
+### 4.3. Projets
+<img src="medias/projets.png" alt="Maquette de la page Projets" title="Projets" width="500"/>
+
+### 4.4. La carte électronique
+<img src="medias/carte-electronique.png" alt="Maquette de la page La carte électronique" title="La carte électronique" width="500"/>
+
+### 4.5. Le portfolio
+<img src="medias/portfolio-page.png" alt="Maquette de la page Le portfolio" title="Le portfolio" width="500"/>
+
+### 4.6. Projet AP3
+<img src="medias/atelier-pro-3.png" alt="Maquette de la page Projet AP3" title="Projet AP3" width="500"/>
+
+### 4.7. Projet AP4
+<img src="medias/atelier-pro-4.png" alt="Maquette de la page Projet AP4" title="Projet AP4" width="500"/>
+
+### 4.8. Veille technologique
+<img src="medias/veille.png" alt="Maquette de la page Veille technologique" title="Veille technologique" width="500"/>
+
+### 4.9. Mentions légales
+<img src="medias/mentions-legales.png" alt="Maquette de la page Mentions légales" title="Mentions légales" width="500"/>
+
 ## 5. Navigation du site
 
 Le menu de navigation est présent sur toutes les pages du site. Il permet d'accéder aux pages Accueil, Parcours, Projets et Veille technologique. Un sélecteur permet de choisir entre la version française et la version anglaise du site.
