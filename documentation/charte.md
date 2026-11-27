@@ -89,6 +89,7 @@ J'utilise principalement des logos pour illustrer certaines informations, notamm
 | Pied de page                | Rectangulaire                          | 20 px          | Aucune  |
 | Bouton « Mentions légales » | Rectangulaire                          | 8 px           | 2 px    |
 | Bouton « Voir plus »        | Rectangulaire                          | 8 px           | 2 px    |
+| Images avec fond            | Rectangulaire                          | 20 px          | Aucune  |
 
 Sur ordinateur, les liens de navigation sont disposés horizontalement. Sur mobile, ils sont regroupés dans un menu déroulant accessible avec le bouton « Menu ».
 

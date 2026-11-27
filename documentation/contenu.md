@@ -18,9 +18,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 ### 1.1. Menu de navigation
 
-Accueil, Parcours, Projets, Veille technologique
-
-FR / EN
+Accueil, Parcours, Projets, Veille technologique, FR / EN
 
 <img src="medias/logo.png" alt="Logo du site web" title="Logo du portfolio" width="300"/>
 
@@ -28,7 +26,7 @@ FR / EN
 
 ### 1.2. Pied de page
 
-Sacha GRANDCOLAS, mentions légales, GitHub, LinkedIn
+Sacha GRANDCOLAS, GitHub, LinkedIn, Mentions légales
 
 <div style="page-break-after:always"></div>
 
@@ -40,9 +38,7 @@ SACHA GRANDCOLAS
 
 ÉTUDIANT EN BTS SIO - OPTION SISR
 
-Je suis actuellement étudiant au CCI Campus de Strasbourg
-
-Actuellement étudiant au CCI Campus de Strasbourg, je suis en alternance chez Lingenheld Groupe au service informatique.
+Actuellement étudiant au CCI Campus de Strasbourg, je suis alternant chez Lingenheld au service informatique 
 
 
 
@@ -90,13 +86,13 @@ Professionnel :
 
 Mes projets
 
-Vous pouvez ici retrouver l'ensemble des projets que j'ai réalisés durant mon Bac professionnel CIEL et mon BTS SIO.
+Vous pouvez ici retrouver l'ensemble des projets que j'ai réalisés durant mon BAC professionnel CIEL et mon BTS SIO.
 
 
 
 **La carte électronique**
 
-Ce projet consiste à concevoir une carte électronique permettant de détecter la luminosité ambiante grâce à un capteur crépusculaire. J'ai réalisé le schéma électronique et le routage du circuit imprimé avec KiCad. La carte a ensuite été fabriquée par usinage à l'aide de la machine CNC et du logiciel Perceval
+Ce projet consiste à concevoir une carte électronique permettant de détecter la luminosité ambiante grâce à un capteur crépusculaire. J'ai réalisé le schéma électronique et le routage du circuit imprimé avec KiCad. La carte a ensuite été fabriquée par usinage à l'aide de la machine CNC et du logiciel Perceval.
 
 
 
@@ -142,7 +138,7 @@ Voir plus
 
 La carte électronique
 
-Vous pouvez ici retrouver mon projet de conception d’une carte électronique que j’ai eu l’occasion de faire au lycée
+Vous pouvez ici retrouver mon projet de conception d’une carte électronique que j’ai eu l’occasion de faire au lycée.
 
 
 
@@ -150,7 +146,7 @@ Lors de ce projet fait au lycée j'ai dû fabriquer une carte électronique de l
 
 Tout d'abord j'ai choisi un projet parmi une liste proposée par mes professeurs, après réflexion mon choix s'est porté sur un interrupteur crépusculaire, c'est-à-dire une lumière qui s'allume automatiquement dans l'obscurité et inversement qui s'éteint lorsque la luminosité augmente à nouveau.
 
-Ensuite, j'ai utilisé KiCad pour créer le schéma, le PCB ainsi que le routage des pistes
+Ensuite, j'ai utilisé KiCad pour créer le schéma, le PCB ainsi que le routage des pistes.
 
 Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensuite tracé et gravé les pistes sur des plaques en cuivre.
 
@@ -164,7 +160,7 @@ Enfin, le logiciel Perceval m'a permis de contrôler la graveuse CNC qui a ensui
 
 Le portfolio
 
-Vous pouvez ici retrouver mon projet de création d’un portfolio.
+Vous pouvez ici retrouver la création de mon portfolio, de la conception des maquettes au développement du site.
 
 
 
@@ -184,25 +180,37 @@ Enfin, j'utilise Git et GitHub pour suivre l'avancement du projet et conserver l
 
 ## 7. Atelier de professionnalisation 3
 
+L'atelier de professionnalisation 3
+
+Vous pouvez ici retrouver mon atelier de professionnalisation numéro 3.
+
+
+
 Ce projet est à venir.
 
-**Illustration** : à venir
-**Compétences du référentiel mobilisées** : à venir
-**Documents de présentation** : à venir
-**Documentation technique** : à venir
-**Documentation utilisateur** : à venir
+Illustration : à venir
+Compétences du référentiel mobilisées : à venir
+Documents de présentation : à venir
+Documentation technique : à venir
+Documentation utilisateur : à venir
 
 <div style="page-break-after:always"></div>
 
 ## 8. Atelier de professionnalisation 4
 
+L'atelier de professionnalisation 4
+
+Vous pouvez ici retrouver mon atelier de professionnalisation numéro 4.
+
+
+
 Ce projet est à venir.
 
-**Illustration** : à venir
-**Compétences du référentiel mobilisées** : à venir
-**Documents de présentation** : à venir
-**Documentation technique** : à venir
-**Documentation utilisateur** : à venir
+Illustration : à venir
+Compétences du référentiel mobilisées : à venir
+Documents de présentation : à venir
+Documentation technique : à venir
+Documentation utilisateur : à venir
 
 <div style="page-break-after:always"></div>
 
@@ -272,9 +280,9 @@ Vous pouvez ici retrouver les mentions légales de ce site web.
 
 
 
-*Dernière mise à jour : 30 octobre 2026*
+*Dernière mise à jour : 27 novembre 2026*
 
-### 1. Éditeur du site
+### 10.1. Éditeur du site
 
 Ce site est édité par :
 
@@ -286,33 +294,35 @@ Statut : étudiant en BTS SIO (Services informatiques aux organisations) option 
 
 Ce site est un portfolio personnel à but pédagogique et non commercial, réalisé dans le cadre de ma formation.
 
-### 2. Directeur de la publication
+### 10.2. Directeur de la publication
 
-Le directeur de la publication est Sacha GRANDCOLAS, en qualité d’éditeur du site.
+Le directeur de la publication est Sacha GRANDCOLAS, en qualité d'éditeur du site.
 
-### 3. Hébergement
+### 10.3. Hébergement
 
 L'hébergeur sera précisé lors de la mise en ligne du site.
 
-### 4. Propriété intellectuelle
+### 10.4. Propriété intellectuelle
 
-L’ensemble des contenus de ce site (textes, images, code, mise en page, logos) est la propriété de Sacha GRANDCOLAS, sauf mention contraire. Toute reproduction, représentation, modification ou diffusion, totale ou partielle, sans autorisation écrite préalable de l’auteur est interdite et constitue une contrefaçon sanctionnée par les articles L335-2 et suivants du Code de la propriété intellectuelle.
+Sauf mention contraire, les contenus de ce site (textes, images, code et mise en page) sont la propriété de Sacha GRANDCOLAS. Toute reproduction, représentation, modification ou diffusion, totale ou partielle, sans autorisation écrite préalable de l'auteur est interdite et constitue une contrefaçon sanctionnée par les articles L335-2 et suivants du Code de la propriété intellectuelle.
 
-### 5. Données personnelles et cookies
+Les logos, noms et marques des entreprises, des établissements scolaires et des outils informatiques présentés sur ce site restent la propriété de leurs titulaires respectifs. Ils sont utilisés uniquement à des fins d'illustration de mon parcours et de mes compétences. Leur présence n'implique aucun partenariat ni aucune approbation de la part de leurs titulaires. Tout titulaire peut demander le retrait de son logo à l'adresse indiquée dans la section « Éditeur du site ».
 
-Ce site ne collecte aucune donnée personnelle : il ne comporte ni formulaire, ni outil de statistiques, ni traceur. Aucun cookie n’est déposé sur votre terminal.
+### 10.5. Données personnelles et cookies
 
-Conformément au Règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés, vous disposez d’un droit d’accès, de rectification, d’effacement et d’opposition concernant vos données. Pour toute question à ce sujet, vous pouvez me contacter à l’adresse indiquée à l’article 1. Vous pouvez également saisir la CNIL ([www.cnil.fr](http://www.cnil.fr)).
+Ce site ne collecte aucune donnée personnelle : il ne comporte ni formulaire, ni outil de statistiques, ni traceur. Aucun cookie n'est déposé sur votre terminal.
 
-### 6. Responsabilité
+Conformément au Règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés, vous disposez d'un droit d'accès, de rectification, d'effacement et d'opposition concernant vos données. Pour toute question à ce sujet, vous pouvez me contacter à l'adresse indiquée dans la section « Éditeur du site ». Vous pouvez également saisir la CNIL ([www.cnil.fr](https://www.cnil.fr)).
 
-Je m’efforce de fournir des informations exactes et à jour, mais je ne peux garantir l’absence d’erreurs ou d’omissions. L’éditeur ne saurait être tenu responsable d’un dommage résultant de l’utilisation des informations présentes sur ce site.
+### 10.6. Responsabilité
 
-### 7. Liens externes
+Je m'efforce de fournir des informations exactes et à jour, mais je ne peux garantir l'absence d'erreurs ou d'omissions. L'éditeur ne saurait être tenu responsable d'un dommage résultant de l'utilisation des informations présentes sur ce site.
 
-Ce site peut contenir des liens vers des sites tiers (par exemple GitHub ou LinkedIn). Je n’exerce aucun contrôle sur leur contenu et décline toute responsabilité à leur égard.
+### 10.7. Liens externes
 
-### 8. Droit applicable
+Ce site peut contenir des liens vers des sites tiers. Je n'exerce aucun contrôle sur leur contenu et décline toute responsabilité à leur égard.
+
+### 10.8. Droit applicable
 
 Le présent site et ses mentions légales sont soumis au droit français. En cas de litige, les tribunaux français sont seuls compétents.
 
