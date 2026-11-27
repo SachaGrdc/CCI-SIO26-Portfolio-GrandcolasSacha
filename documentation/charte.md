@@ -19,13 +19,15 @@ Ce portfolio est réalisé dans le cadre de l'atelier de professionnalisation 1 
 
 ## 2. Identité visuelle
 
-J'ai choisi un design épuré avec des couleurs sobres, notamment le brun, le blanc et le gris clair. Les titres sont mis en évidence pour faciliter la lecture
+J'ai choisi un design épuré avec des couleurs sobres, notamment le brun, le blanc et le gris clair. Le brun sert de couleur principale, tandis que le blanc et le gris clair permettent d'aérer les pages et de séparer les différents contenus. Les titres sont mis en évidence en gras et en majuscules pour faciliter la lecture. La même présentation est reprise sur toutes les pages afin de garder un site cohérent.
+
+
 
 ## 3. Éléments graphiques
 
 ### 3.1. Couleurs
 
-Comme couleur principale j'utilise du brun : #573F3F
+Comme couleur principale, j'utilise : #573F3F
 
 Les fonds des cartes et certains éléments sont en gris pâle : #F4F0F0. J'utilise également du gris clair #D9D9D9 pour différencier certaines parties des pages.
 
@@ -35,9 +37,9 @@ Les paragraphes et les textes classiques sont affichés en noir : #000000
 
 Les titres, sous-titres ainsi que les textes courts et importants sont affichés en brun : #573F3F
 
-Certains textes, notamment ceux présents sur les fonds bruns sont affichés en gris clair #D9D9D9 afin de conserver un contraste suffisant et de faciliter la lecture.
+Certains textes, notamment ceux présents sur les fonds bruns, sont affichés en gris clair #D9D9D9 afin de conserver un contraste suffisant et de faciliter la lecture.
 
-Lorsque plusieurs cases sont regroupées dans un même bloc comme sur la page Projets j'utilise la couleur #D9D9D9 pour le fond qui englobe l'ensemble. Les cases à l'intérieur utilisent la couleur #F4F0F0 afin de les distinguer du fond principal.
+Lorsque plusieurs cases sont regroupées dans un même bloc, comme sur la page Projets, j'utilise la couleur #D9D9D9 pour le fond qui englobe l'ensemble. Les cases à l'intérieur utilisent la couleur #F4F0F0 afin de les distinguer du fond principal.
 
 Les images qui conservent un fond sont affichées avec des coins arrondis de 20 px tandis que les autres images sont affichées sans fond.
 
@@ -64,22 +66,27 @@ J'utilise la typographie Inter. J'alterne entre l'épaisseur « Bold » pour les
 | Titre      | Bold      | 60 px             | 32 px         |
 | Sous-titre | Bold      | 40 px             | 24 px         |
 | Paragraphe | Regular   | 20 px             | 16 px         |
+| Bouton     | Regular   | 16 px             | 16 px         |
 
-L'interligne est de [..]. La police de secours est `sans-serif`.
+L'interligne des paragraphes est de 33 px sur ordinateur et de 26 px sur mobile. La police de secours est sans-serif.
 
 ### 3.3. Logo, icônes et boutons
 
-J'utilise principalement des logos pour illustrer certaines informations, notamment les établissements scolaires et les outils informatiques.
+J'utilise principalement des logos pour illustrer certaines informations, notamment les établissements scolaires et les outils informatiques. Le logo du portfolio est affiché dans la barre de navigation.
 
-Les boutons de navigation sont intégrés dans une barre horizontale avec des coins arrondis, ils ne possèdent pas de bordure visible. Les cartes possèdent également des coins arrondis
+| Élément                     | Forme                                  | Coins arrondis | Bordure |
+| --------------------------- | -------------------------------------- | -------------- | ------- |
+| Barre de navigation         | Rectangulaire                          | 20 px          | Aucune  |
+| Boutons de navigation       | Rectangulaire (Intégrés dans la barre) | px             | Aucune  |
+| Cartes                      | Rectangulaire                          | 20 px          | Aucune  |
+| Sélecteur de langue         | Rectangulaire                          | 8 px           | 2 px    |
+| Pied de page                | Rectangulaire                          | 20 px          | Aucune  |
+| Bouton « Mentions légales » | Rectangulaire                          | 8 px           | 2 px    |
+| Bouton « Voir plus »        | Rectangulaire                          | 8 px           | 2 px    |
 
-Le sélecteur de langue possède une forme rectangulaire avec des coins arrondis et une bordure fine de 2 px
+Sur ordinateur, les liens de navigation sont disposés horizontalement. Sur mobile, ils sont regroupés dans un menu déroulant accessible avec le bouton « Menu ».
 
-Le pied de page possède une forme rectangulaire avec des coins arrondis, de la même manière que la barre de navigation. Le bouton des mentions légales possède une bordure de 2 px et des coins arrondis
-
-Le logo du portfolio est affiché dans la barre de navigation. Sur ordinateur les liens de navigation sont disposés horizontalement. Sur mobile ils sont regroupés dans un menu déroulant accessible avec le bouton « Menu »
-
-
+Chaque image possède un texte alternatif.
 
 ## 4. Maquettes responsive
 
@@ -95,6 +102,8 @@ Le pied de page contient mon nom ainsi que des liens vers LinkedIn, GitHub et le
 Accueil
 ├── Parcours
 ├── Projets
+│   ├── La carte électronique
+│   ├── Le portfolio
 │   ├── Projet AP3
 │   └── Projet AP4
 ├── Veille technologique

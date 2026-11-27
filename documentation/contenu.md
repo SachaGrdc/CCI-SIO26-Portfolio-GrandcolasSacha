@@ -21,7 +21,9 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 Accueil, Parcours, Projets, Veille technologique
 
-<img src="\var\www\html\portfolio\documentation\medias\ubuntu-logo.png" alt="ubuntu-logo" style="zoom:15%;" />
+Sélecteur de langue 
+
+<img src="\var\www\html\portfolio\documentation\medias\logo.png" alt="Logo du site web" style="zoom:35%;" />
 
 
 
