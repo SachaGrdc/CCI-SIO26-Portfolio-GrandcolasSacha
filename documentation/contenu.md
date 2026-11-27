@@ -9,6 +9,8 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 # Contenu
 **Date de création** : 16/10/2026 - S.GRANDCOLAS
 **Date de modification** : 27/11/2026 - S.GRANDCOLAS
+**Version** : 1.0
+
 **Sommaire :**
 
 > [TOC]
@@ -188,11 +190,11 @@ Vous pouvez ici retrouver mon atelier de professionnalisation numéro 3.
 
 Ce projet est à venir.
 
-Illustration : à venir
-Compétences du référentiel mobilisées : à venir
-Documents de présentation : à venir
-Documentation technique : à venir
-Documentation utilisateur : à venir
+- Illustration : à venir
+- Compétences du référentiel mobilisées : à venir
+- Documents de présentation : à venir
+- Documentation technique : à venir
+- Documentation utilisateur : à venir
 
 <div style="page-break-after:always"></div>
 
@@ -206,11 +208,11 @@ Vous pouvez ici retrouver mon atelier de professionnalisation numéro 4.
 
 Ce projet est à venir.
 
-Illustration : à venir
-Compétences du référentiel mobilisées : à venir
-Documents de présentation : à venir
-Documentation technique : à venir
-Documentation utilisateur : à venir
+- Illustration : à venir
+- Compétences du référentiel mobilisées : à venir
+- Documents de présentation : à venir
+- Documentation technique : à venir
+- Documentation utilisateur : à venir
 
 <div style="page-break-after:always"></div>
 
@@ -282,7 +284,7 @@ Vous pouvez ici retrouver les mentions légales de ce site web.
 
 *Dernière mise à jour : 27 novembre 2026*
 
-### 10.1. Éditeur du site
+### 1. Éditeur du site
 
 Ce site est édité par :
 
@@ -294,36 +296,34 @@ Statut : étudiant en BTS SIO (Services informatiques aux organisations) option 
 
 Ce site est un portfolio personnel à but pédagogique et non commercial, réalisé dans le cadre de ma formation.
 
-### 10.2. Directeur de la publication
+### 2. Directeur de la publication
 
 Le directeur de la publication est Sacha GRANDCOLAS, en qualité d'éditeur du site.
 
-### 10.3. Hébergement
+### 3. Hébergement
 
 L'hébergeur sera précisé lors de la mise en ligne du site.
 
-### 10.4. Propriété intellectuelle
+### 4. Propriété intellectuelle
 
 Sauf mention contraire, les contenus de ce site (textes, images, code et mise en page) sont la propriété de Sacha GRANDCOLAS. Toute reproduction, représentation, modification ou diffusion, totale ou partielle, sans autorisation écrite préalable de l'auteur est interdite et constitue une contrefaçon sanctionnée par les articles L335-2 et suivants du Code de la propriété intellectuelle.
 
 Les logos, noms et marques des entreprises, des établissements scolaires et des outils informatiques présentés sur ce site restent la propriété de leurs titulaires respectifs. Ils sont utilisés uniquement à des fins d'illustration de mon parcours et de mes compétences. Leur présence n'implique aucun partenariat ni aucune approbation de la part de leurs titulaires. Tout titulaire peut demander le retrait de son logo à l'adresse indiquée dans la section « Éditeur du site ».
 
-### 10.5. Données personnelles et cookies
+### 5. Données personnelles et cookies
 
 Ce site ne collecte aucune donnée personnelle : il ne comporte ni formulaire, ni outil de statistiques, ni traceur. Aucun cookie n'est déposé sur votre terminal.
 
 Conformément au Règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés, vous disposez d'un droit d'accès, de rectification, d'effacement et d'opposition concernant vos données. Pour toute question à ce sujet, vous pouvez me contacter à l'adresse indiquée dans la section « Éditeur du site ». Vous pouvez également saisir la CNIL ([www.cnil.fr](https://www.cnil.fr)).
 
-### 10.6. Responsabilité
+### 6. Responsabilité
 
 Je m'efforce de fournir des informations exactes et à jour, mais je ne peux garantir l'absence d'erreurs ou d'omissions. L'éditeur ne saurait être tenu responsable d'un dommage résultant de l'utilisation des informations présentes sur ce site.
 
-### 10.7. Liens externes
+### 7. Liens externes
 
 Ce site peut contenir des liens vers des sites tiers. Je n'exerce aucun contrôle sur leur contenu et décline toute responsabilité à leur égard.
 
-### 10.8. Droit applicable
+### 8. Droit applicable
 
 Le présent site et ses mentions légales sont soumis au droit français. En cas de litige, les tribunaux français sont seuls compétents.
-
-<div style="page-break-after:always"></div>

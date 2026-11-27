@@ -12,6 +12,8 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Date de création** : 16/10/2026 - S.GRANDCOLAS
 **Date de modification** : 27/11/2026 - S.GRANDCOLAS
+**Version** : 1.0
+
 **Sommaire :**
 
 > [TOC]
@@ -20,15 +22,15 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 ## 1. Les outils
 
-Afin de pouvoir travailler sur ce projet j'ai utilisé plusieurs outils : 
+Afin de pouvoir travailler sur ce projet, j'ai utilisé plusieurs outils : 
 
-**WSL** : C'est une sorte de "machine virtuelle" linux connecté à Windows et qui a pour but de pouvoir utiliser l'environnement linux directement via Windows, j'utilise Ubuntu 26.04 LTS comme OS, WSL est en version 3.0.3
+**WSL** : C'est une sorte de "machine virtuelle" Linux connectée à Windows et qui a pour but de pouvoir utiliser l'environnement Linux directement via Windows, j'utilise Ubuntu 26.04 LTS comme OS, WSL est en version 3.0.3
 
 **Windows** : C'est le système d'exploitation principal que j'utilise, plus exactement j'utilise la version 26H2
 
 **Visual Studio Code** : C'est l'éditeur de code que j'utilise afin de pouvoir coder, la version est en 1.146.0
 
-**Typora** : C'est l'éditeur Markdown qui me permet de rédiger toute la documentation.
+**Typora** : C'est l'éditeur Markdown qui me permet de rédiger toute la documentation, celui-ci est en version 1.14.15
 
 **Apache** : C'est un logiciel qui sert à héberger et diffuser des sites web, j'utilise la version 2.4.66 de Apache2, je l'ai installé dans WSL.
 
@@ -40,15 +42,19 @@ Afin de pouvoir travailler sur ce projet j'ai utilisé plusieurs outils :
 
 **Figma** : C'est un outil qui permet de structurer des pages web en faisant des maquettes, je l'utilise pour créer les différentes pages de mon portfolio, j'utilise la version web.
 
-**SSH** : C'est un protocole réseau sécurisé qui permet de se connecter à distance à un appareil (ordinateur ou serveur) et d'y exécuter des commandes via une connexion chiffrée, j'utilise ce protocole pour envoyer les commit sur github.
+**SSH** : C'est un protocole réseau sécurisé qui permet de se connecter à distance à un appareil (ordinateur ou serveur) et d'y exécuter des commandes via une connexion chiffrée, j'utilise ce protocole pour envoyer les commits sur GitHub.
 
 
+
+**Justification des choix** : WSL est plus léger qu'une machine virtuelle et intégré à Windows. Visual Studio Code est gratuit et compatible avec WSL. Typora permet de voir directement le rendu Markdown et de l'exporter en PDF. Apache est gratuit et connu. Brave est un navigateur basé sur Chromium, il est donc compatible avec la majorité des sites web. Git et GitHub conservent l'historique et une copie en ligne du projet. Figma permet de créer les maquettes dans le navigateur. SSH assure une connexion chiffrée à GitHub.
+
+<div style="page-break-after:always"></div>
 
 ## 2. Les langages et technologies
 
-Afin de développer les différentes page du portfolio je vais devoir utiliser plusieurs langages, tout d'abord le HTML, c'est ce qui qui permet de structurer le contenu des pages web, j'utilise HTML5. Une fois la structure des pages fait, il faut mettre en forme celles-ci, c'est pourquoi j'utilise CSS, plus exactement CSS3, je l'utilise pour gérer les couleurs, les polices, la taille des images ainsi que la disposition des différents éléments. Enfin, pour ajouter des animations et rajouter de l'interactivité le JavaScript est très utile.
+Afin de développer les différentes pages du portfolio je vais devoir utiliser plusieurs langages, tout d'abord le HTML, c'est ce qui permet de structurer le contenu des pages web, j'utilise HTML5. Une fois la structure des pages faite, il faut mettre en forme celles-ci, c'est pourquoi j'utilise CSS, plus exactement CSS3, je l'utilise pour gérer les couleurs, les polices, la taille des images ainsi que la disposition des différents éléments. Enfin, pour ajouter des animations et rajouter de l'interactivité le JavaScript est très utile.
 
-
+<div style="page-break-after:always"></div>
 
 ## 3. Architecture de l'environnement
 
@@ -96,7 +102,7 @@ Cette arborescence se trouve dans WSL à l'emplacement suivant : /var/www/html/p
 
 ### 3.3. Gestion et suivi du projet
 
-Pour suivre l'évolution du portfolio j'utilise Git et GitHub
+Pour suivre l'évolution du portfolio j'utilise Git et GitHub.
 
 Git me permet d'enregistrer les différentes modifications apportées au projet grâce aux commits. GitHub me permet de conserver une copie du projet en ligne et de retrouver mes modifications.
 
@@ -106,6 +112,10 @@ Voici les commandes utilisées pour le suivi de version :
 git add .                           # sélectionne les fichiers modifiés
 git commit -m "Message"				# enregistre les modifications avec un message
 git push                            # envoie les commits sur GitHub
+```
+
+```bash
+git clone git@github.com:SachaGrdc/CCI-SIO26-Portfolio-GRANDCOLASSacha.git   # récupère le projet depuis GitHub
 ```
 
 
@@ -121,18 +131,18 @@ ssh-keygen -t ed25519                # ajouter ensuite la clé publique sur GitH
 ssh -T git@github.com                # test de la connexion
 ```
 
+Il n'est pas nécessaire d'installer Git car il est installé par défaut sur Ubuntu 26.04.
+
 
 
 ### 3.5. Droits d'accès
 
 ```bash
-sudo chown -R root:adm /var/www
-sudo chmod 2775 /var/www
-sudo chmod 2775 /var/www/html
-sudo chmod 664 /var/www/html/*
+sudo chown -R root:adm /var/www       # propriétaire root, groupe adm
+sudo chmod 2775 /var/www              # écriture pour root et adm, groupe hérité
+sudo chmod 2775 /var/www/html         # mêmes droits pour le dossier web
+sudo chmod 664 /var/www/html/*        # écriture pour root et adm, lecture pour les autres
 ```
-
-Les fichiers dans `/var/www` appartiennent à `root` et au groupe `adm`, dont mon utilisateur fait partie. Les dossiers `/var/www` et `/var/www/html` sont modifiables par `root` et le groupe `adm`, tandis qu'Apache peut seulement les lire. Le 2 de `2775` permet aux nouveaux fichiers de garder le groupe `adm`.
 
 
 

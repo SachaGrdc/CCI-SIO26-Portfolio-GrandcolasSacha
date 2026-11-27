@@ -11,9 +11,13 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Date de création** : 27/10/2026 - S.GRANDCOLAS
 **Date de modification** : 27/11/2026 - S.GRANDCOLAS
+**Version** : 1.0
+
 **Sommaire :**
 
 > [TOC]
+
+<div style="page-break-after:always"></div>
 
 <div style="page-break-after:always"></div>
 
@@ -23,11 +27,15 @@ Ce portfolio est réalisé dans le cadre de l'atelier de professionnalisation 1 
 
 
 
+<div style="page-break-after:always"></div>
+
 ## 2. Identité visuelle
 
 J'ai choisi un design épuré avec des couleurs sobres, notamment le brun, le blanc et le gris clair. Le brun sert de couleur principale, tandis que le blanc et le gris clair permettent d'aérer les pages et de séparer les différents contenus. Les titres sont mis en évidence en gras et en majuscules pour faciliter la lecture. La même présentation est reprise sur toutes les pages afin de garder un site cohérent.
 
 
+
+<div style="page-break-after:always"></div>
 
 ## 3. Éléments graphiques
 
@@ -49,8 +57,6 @@ Lorsque plusieurs cases sont regroupées dans un même bloc, comme sur la page P
 
 Les images qui conservent un fond sont affichées avec des coins arrondis de 20 px tandis que les autres images sont affichées sans fond.
 
-La couleur crème #F6EDE0 est utilisée pour le monogramme, le libellé « Langue » et la sélection de la langue.
-
 
 
 Les contrastes entre les textes et les fonds respectent le minimum d'accessibilité de 4,5:1.
@@ -67,7 +73,7 @@ Les contrastes entre les textes et les fonds respectent le minimum d'accessibili
 
 ### 3.2. Typographie
 
-J'utilise la typographie Inter. J'alterne entre l'épaisseur « Bold » pour les titres et les éléments importants et « Regular » pour les paragraphes et les textes secondaires. Les titres sont affichés en gras et en majuscules afin de les faire ressortir.
+J'utilise la typographie Inter, j'alterne entre l'épaisseur « Bold » pour les titres et les éléments importants et « Regular » pour les paragraphes et les textes secondaires. Les titres sont affichés en gras et en majuscules afin de les faire ressortir.
 
 | Élément             | Épaisseur | Taille ordinateur | Taille mobile |
 | ------------------- | --------- | ----------------- | ------------- |
@@ -92,6 +98,7 @@ J'utilise principalement des logos pour illustrer certaines informations, notamm
 | Pied de page                | Rectangulaire                          | 20 px          | Aucune  |
 | Bouton « Mentions légales » | Rectangulaire                          | 8 px           | 2 px    |
 | Bouton « Voir plus »        | Rectangulaire                          | 8 px           | 2 px    |
+| Bouton "Menu"               | Rectangulaire                          | 8 px           | 2 px    |
 | Images avec fond            | Rectangulaire                          | 20 px          | Aucune  |
 
 Sur ordinateur, les liens de navigation sont disposés horizontalement. Sur mobile, ils sont regroupés dans un menu déroulant accessible avec le bouton « Menu ».
@@ -100,24 +107,25 @@ Chaque image possède un texte alternatif.
 
 **Logo du portfolio**
 
-Le logo du portfolio reprend mes initiales « SG ». Il est affiché dans la barre de navigation et permet d'identifier mon site.
+Le logo du portfolio reprend mes initiales « SG », il est affiché dans la barre de navigation et il reprend les couleurs du site web.
 
 <img src="medias/logo.png" alt="Logo du portfolio" title="Logo du portfolio" width="150"/>
 
 **Logos utilisés**
 
-Ces logos illustrent mes compétences et mon parcours. Ils permettent d'identifier rapidement les outils informatiques et les établissements présentés.
+Ces logos illustrent mes compétences et mon parcours, ils permettent d'identifier rapidement les outils informatiques et les établissements présentés.
 
-<img src="medias/ubuntu-logo.png" alt="Logo Ubuntu" title="Ubuntu" width="150"/>
-<img src="medias/wireshark-logo.png" alt="Logo Wireshark" title="Wireshark" width="80"/>
-<img src="medias/HTML-CSS-logo.png" alt="Logos HTML et CSS" title="HTML et CSS" width="150"/>
-<img src="medias/cci.png" alt="Logo du CCI Campus" title="CCI Campus" width="150"/>
+<img src="medias/ubuntu-logo.png" alt="Logo Ubuntu" title="Ubuntu" width="100"/> <img src="medias/wireshark-logo.png" alt="Logo Wireshark" title="Wireshark" width="100"/> <img src="medias/HTML-CSS-logo.png" alt="Logos HTML et CSS" title="HTML et CSS" width="100"/> <img src="medias/cci.png" alt="Logo du CCI Campus" title="CCI Campus" width="100"/> <img src="medias/mangin.png" alt="Logo du lycée Mangin" title="Lycée Mangin" width="100"/> <img src="medias/erckmann.png" alt="Logo du collège Erckmann-Chatrian" title="Collège Erckmann-Chatrian" width="100"/> <img src="medias/lingenheld.png" alt="Logo de l'entreprise Lingenheld" title="Lingenheld" width="100"/> <img src="medias/ferco.png" alt="Logo de l'entreprise Ferco" title="Ferco" width="100"/> <img src="medias/fm.png" alt="Logo de l'entreprise FM Logistic" title="FM Logistic" width="100"/>
 
 **Boutons**
 
-Les boutons ont des coins arrondis et un style commun. Ils permettent de naviguer dans le site, de changer de langue, d'afficher le détail d'un projet et d'accéder aux mentions légales.
+Les boutons ont des coins arrondis et un style commun, ils permettent de naviguer dans le site, de changer de langue, d'afficher le détail d'un projet et d'accéder aux mentions légales.
 
 <img src="medias/boutons.png" alt="Boutons du site" title="Boutons" width="400"/>
+
+
+
+<div style="page-break-after:always"></div>
 
 ## 4. Maquettes responsive
 
@@ -145,14 +153,16 @@ Les maquettes ont été réalisées avec Figma : https://www.figma.com/design/AX
 <img src="medias/atelier-pro-4.png" alt="Maquette de la page Projet AP4" title="Projet AP4" width="500"/>
 
 ### 4.8. Veille technologique
-<img src="medias/veille.png" alt="Maquette de la page Veille technologique" title="Veille technologique" width="500"/>
+<img src="medias/veille.png" alt="Maquette de la page Veille technologique" title="Veille technologique" width="420"/>
 
 ### 4.9. Mentions légales
 <img src="medias/mentions-legales.png" alt="Maquette de la page Mentions légales" title="Mentions légales" width="500"/>
 
+<div style="page-break-after:always"></div>
+
 ## 5. Navigation du site
 
-Le menu de navigation est présent sur toutes les pages du site. Il permet d'accéder aux pages Accueil, Parcours, Projets et Veille technologique. Un sélecteur permet de choisir entre la version française et la version anglaise du site.
+Le menu de navigation est présent sur toutes les pages du site, il permet d'accéder aux pages Accueil, Parcours, Projets et Veille technologique, un sélecteur permet également de choisir entre la version française et la version anglaise du site.
 
 Le pied de page contient mon nom ainsi que des liens vers LinkedIn, GitHub et les mentions légales.
 
